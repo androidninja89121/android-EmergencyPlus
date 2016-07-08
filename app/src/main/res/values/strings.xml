@@ -1,0 +1,215 @@
+<resources>
+
+    <string name="google_api_key">AIzaSyAwCzokQL2z0JVw9HP_190Jy8q-aPhd8ww</string>
+    <string name="app_name">@string/EmergencyPlus</string>
+    <string name="EmergencyPlus">Emergency+</string>
+    <string name="Call000">CALL 000</string>
+
+    <string name="Home">Home</string>
+    <string name="Map">Map</string>
+    <string name="iosInfo">Info</string>
+
+    <string name="IAgree">I Agree</string>
+    <string name="Agree">Agree</string>
+    <string name="Done">Done</string>
+    <string name="Cancel">Cancel</string>
+    <string name="TellOperatorLocation">Tell the operator your location</string>
+    <string name="GPS">GPS COORDINATES</string>
+    <string name="Lat">LAT:</string>
+    <string name="LONG">LONG:</string>
+    <string name="NOGPS">NO GPS AVAILABLE</string>
+    <string name="NoAddress">No Address Detected</string>
+    <string name="AddressUpdated">(Address updated %s)</string>
+    <string name="Accurate">ACCURATE TO %d METRES</string>
+    <string name="starting_app">Starting Emergency +</string>
+    <string name="Ready">Emergency+ is ready to be used</string>
+    <string name="SorryCrash">Sorry. The app just crashed.</string>
+    <string name="ReadAccept">I have read and accept the Terms of Use.</string>
+
+    <string name="TurnOffAirplane">Turn Off Airplane Mode to Allow Your Phone to Make a Call</string>
+    <string name="noGPSDialogMessage">Turn On Location Services to Allow Emergency+ to Determine Your Location</string>
+    <string name="LocationDisabled">Location Services Disabled\n%s needs access to your location to display your location and address. Please turn on Location Services in your device settings</string>
+
+    <string name="BestAssist">Who is best to assist me?</string>
+    <string name="Call">Call</string>
+    <string name="CallString">Call %s</string>
+
+    <string name="CallTZ000">CALL TRIPLE ZERO (000)</string>
+    <string name="InjuredMedical">Is someone seriously injured or in need of urgent medical help?</string>
+    <string name="LifePropertyThreatened">Is your life or property being threatened?</string>
+    <string name="SeriousOrCrime">Have you just witnessed a serious accident or crime?</string>
+    <string name="FocusedRelevant">Stay focused, stay relevant, stay on the line</string>
+
+    <string name="CallSES132500">CALL STATE EMERGENCY SERVICE (132 500)</string>
+    <string name="CallSES">Call State Emergency Service</string>
+    <string name="ForFloodStormsCyclones">For emergency help in floods, storms and cyclones</string>
+
+    <string name="CallPAL131444">CALL POLICE ASSISTANCE LINE (131 444)</string>
+    <string name="CallPal">Call police assistance line</string>
+    <string name="VictimPAL">If you are a victim of a crime, other than life threatening or time critical emergency situations, you should call 131 444 for police assistance.</string>
+
+    <string name="OtherNational">Other national numbers</string>
+
+    <string name="CallCrimeStoppers1800333000">CALL CRIMESTOPPERS (1800 333 000)</string>
+    <string name="CallCrimestoppers">Call Crime Stoppers</string>
+    <string name="CrimeStoppersInfo">Crime Stoppers is a community based initiative that provides members of the public the ability to provide crime information.</string>
+    <string name="Anonymous">It can be anonymous.</string>
+    <string name="CrimeStoppersVisit">Visit www.crimestoppers.com.au</string>
+
+    <string name="CallHealthDirect1800022222">CALL HEALTHDIRECT 1800 022 222</string>
+    <string name="CallHealthDirect">Call Health Direct</string>
+    <string name="HealthDirectInfo">If you have a health concern and you\'re not sure what to do, simply call 1800 022 222 and speak with a registered nurse.</string>
+    <string name="HealthDirectAdvice">You\'ll get fast, expert advice about any health issue, helping you make an informed decision about how to manage it.</string>
+
+    <string name="NRS">NATIONAL RELAY SERVICE</string>
+    <string name="DeafHearing">Are you deaf or hard-of-hearing?</string>
+    <string name="Speech">Do you have a speech impairment?</string>
+    <string name="NRSInfo">You can call any of these emergency or assistance lines through the NRS.</string>
+    <string name="RelayOfficerInfo">You will be connected to a relay officer who will stay on the line to relay your conversation with the service you are calling.</string>
+    <string name="NRSMore">Find out more about using the NRS to contact emergency services.</string>
+    <string name="TapNRSIcon">Tap the NRS icon to visit the website.</string>
+
+    <string name="Vision">The Triple Zero Awareness Work Group wishes to acknowledge the valuable assistance of Vision Australia in improving the accessibility of this app</string>
+
+    <string name="LocateMe">Locate me</string>
+
+    <string name="ViewDisclaimer">VIEW DISCLAIMER</string>
+
+    <string name="LifeThreatCritical">For a life threatening or critical emergency</string>
+    <string name="OutsideAus">Your GPS coordinates are outside Australia. Call 112?</string>
+    <string name="PoliceNonUrgent">Police Assistance Line for non-urgent help</string>
+    <string name="StateEmergencyHelp">State Emergency Services for flood, storm and cyclone emergency help</string>
+    <string name="InfoPolice">For providing information to police</string>
+    <string name="HealthConcerns">For advice about health concerns</string>
+
+    <string name="relay_service_url">http://relayservice.gov.au/making-a-call/emergency-calls</string>
+
+    <string name="number_Emergency">000</string>
+    <string name="number_Emergency2">112</string>
+    <string name="number_Police">131444</string>
+    <string name="number_SES">132500</string>
+    <string name="number_CrimeStoppers">1800333000</string>
+    <string name="number_HealthDirect">1800022222</string>
+
+    <!--<string name="number_Emergency">12711</string>-->
+    <!--<string name="number_Emergency2">12711</string>-->
+    <!--<string name="number_Police">12711</string>-->
+    <!--<string name="number_SES">12711</string>-->
+    <!--<string name="number_CrimeStoppers">12711</string>-->
+    <!--<string name="number_HealthDirect">12711</string>-->
+
+    <!--<string name="number_Emergency">+61280607065</string>-->
+    <!--<string name="number_Emergency2">+61280607065</string>-->
+    <!--<string name="number_Police">+61280607065</string>-->
+    <!--<string name="number_SES">+61280607065</string>-->
+    <!--<string name="number_CrimeStoppers">+61280607065</string>-->
+    <!--<string name="number_HealthDirect">+61280607065</string>-->
+
+    <string name="OneSecondAgo">1 sec ago</string>
+    <string name="SecondsAgo">%d secs ago</string>
+    <string name="OneMinAgo">1 min ago</string>
+    <string name="MinutesAgo">%d mins ago</string>
+    <string name="OneHourAgo">1 hr ago</string>
+    <string name="HoursAgo">%d hrs ago</string>
+    <string name="DaysAgo">%d days ago</string>
+    <string name="OneMonthAgo">1 month ago</string>
+    <string name="MonthsAgo">%d months ago</string>
+    <string name="OneYearAgo">1 year ago</string>
+    <string name="YearsAgo">%d years ago</string>
+
+
+    <!-- disclaimer blob that causes difficult to locate errors, hence breakup. -->
+    <string name="DISCLAIMER_1">The mobile device application including its functions and tools that is available for free download from the Google Play under the name \"Emergency+\" that is subject to this license is referred to in this license as the \"Licensed Application\". Fire and Rescue New South Wales for and on behalf of the Crown in right of the State of New South Wales (“FRNSW”) has been a party to the development of the Licensed Application as part of the \"Triple Zero Awareness Work Group\". The Licensed Application includes Content (as defined in paragraph (f) below) owned by Crime Stoppers Australia Limited, the NSW State Emergency Service, NSW Police Force and Emergency Management Australia. The Licensed Application is licensed, not sold, to You for use only under the terms of this license.  FRNSW and You acknowledge that this license is concluded between FRNSW and You only, and not with any member of the \"Triple Zero Awareness Work Group\", Crime Stoppers Australia Limited or Google. Subject to the terms and conditions of this license, FRNSW is solely responsible for the Licensed Application and the content thereof. FRNSW reserves all rights not expressly granted to You.</string>
+    <string name="DISCLAIMER_2">a. Description of the Licensed Application: The service provided by the Licensed Application allows You to call an emergency service appropriate to the circumstances of Your event from Your mobile device and identify your location to the emergency service operator using GPS coordinates (the \"Service\"). The Service is subject to the following limitations: (i) continued use of GPS may dramatically decrease battery life; (ii) there is a risk that the operator receiving an emergency call may transcribe the location coordinates incorrectly in which case the relevant emergency service will be sent to the wrong location; (iii) the availability and accuracy of GPS information is subject to limitations arising due to availability of signals, the relevant mobile device, location and geography (GPS signals may be blocked by dense bush, or tall buildings, and do not penetrate indoor spaces well); and (iv) the Licensed Application may only be used in Australia and the Service is only available in Australia. Accordingly, You accept and acknowledge that use of the Licensed Application may not be as accurate as calling emergency services from a land line and is subject to the foregoing limitations.</string>
+    <string name="DISCLAIMER_3">b. Scope of License: This license granted to You for the Licensed Application by FRNSW is limited to a non-transferable license to use the Licensed Application on any iPhone or iPod touch that You own or control and as permitted by the Usage Rules set forth in Section 9.b. of the Google Play Terms and Conditions (the “Usage Rules”). This license does not allow You to use the Licensed Application on any iPod touch or iPhone that You do not own or control, and You may not distribute or make the Licensed Application available over a network where it could be used by multiple devices at the same time. You may not rent, lease, lend, sell, redistribute or sublicense the Licensed Application. You may not copy (except as expressly permitted by this license and the Usage Rules), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Licensed Application, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the Licensed Application). Any attempt to do so is a violation of the rights of FRNSW and its licensors. If You breach this restriction, You may be subject to prosecution and damages. The terms of the license will govern any upgrades provided by FRNSW that replace and/or supplement the original Licensed Application, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern.</string>
+    <string name="DISCLAIMER_4">c. Consent to Use of Data: You agree that FRNSW may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Licensed Application. FRNSW may use this information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You. To the extent that You furnish any personal information while using the Licensed Application, such personal information will be dealt with by FRNSW in accordance with FRNSW\'s privacy policy as amended from time to time (see &lt;a href="http://www.fire.nsw.gov.au/page.php?id=700"&gt;www.fire.nsw.gov.au&lt;/a&gt;).</string>
+    <string name="DISCLAIMER_5">d. Termination: The license is effective until terminated by You or FRNSW. Your rights under this license will terminate automatically without notice from FRNSW if You fail to comply with any term(s) of this license. Upon termination of the license, You shall cease all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.</string>
+    <string name="DISCLAIMER_6">e. Maintenance and support: FRNSW and You acknowledge that Google has no obligation whatsoever to furnish any maintenance and support services with respect to the Licensed Application.  Maintenance services will be limited to such upgrades as may be made available by FRNSW at the Google Play from time to time.  FRNSW may also make available email support in response to reasonable requests for support in relation to the Licensed Application made to the following email address: TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_7">f. Content: The Service may display, include or make available content, data, information, applications or materials from third parties (“Content”) or provide links to certain third party web sites. By using the Service, You acknowledge and agree that FRNSW is not responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Content or web sites. FRNSW does not warrant or endorse and does not assume and will not have any liability or responsibility to You or any other person for any third-party services, Content or web sites, or for any other materials, products, or services of third parties. Content and links to other web sites are provided solely as a convenience to You.</string>
+    <string name="DISCLAIMER_8">You agree that the Service contains proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that You will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Service. No portion of the Service may be reproduced in any form or by any means. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Service, in any manner, and You shall not exploit the Service in any unauthorised way whatsoever, including but not limited to, by trespass or burdening network capacity.</string>
+    <string name="DISCLAIMER_9">FRNSW and its licensors, reserve the right to change, suspend, remove, or disable access to any element of the Service at any time without notice. In no event will FRNSW be liable for the removal of or disabling of access to any such element of the Service. FRNSW may also impose limits on the use of or access to certain elements of the Service, in any case and without notice or liability.</string>
+    <string name="DISCLAIMER_10">g. NO WARRANTY: YOU EXPRESSLY ACKNOWLEDGE AND AGREE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. SUBJECT TO ANY CONDITION, WARRANTY, GUARANTEE OR RIGHT IMPLIED OR IMPOSED BY THE COMPETITION AND CONSUMER ACT 2010 (CTH) (\"CCA\") OR ANY OTHER LAW WHICH CANNOT BE EXCLUDED BY AGREEMENT, THE LICENSED APPLICATION AND THE SERVICE ARE PROVIDED \"AS IS\" AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND FRNSW HEREBY DISCLAIMS ALL CONDITIONS, WARRANTIES, GUARANTEES AND RIGHTS WITH RESPECT TO THE LICENSED APPLICATION AND ANY SERVICE, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY CONDITIONS WARRANTIES AND/OR GUARANTEES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. FRNSW DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE LICENSED APPLICATION, THAT THE FUNCTIONS CONTAINED IN, OR SERVICE PERFORMED OR PROVIDED BY, THE LICENSED APPLICATION WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE LICENSED APPLICATION OR SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE LICENSED APPLICATION OR SERVICE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY FRNSW OR ITS AUTHORISED REPRESENTATIVE SHALL CREATE A WARRANTY. SHOULD THE LICENSED APPLICATION OR SERVICE PROVE DEFECTIVE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</string>
+    <string name="DISCLAIMER_11">In the event of any failure of the Licensed Application to conform to any applicable warranty, You may notify Google, and Google will refund the purchase price for the Licensed Application to You. To the maximum extent permitted by applicable law, Google will have no other warranty obligation whatsoever with respect to the Licensed Application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be FRNSW\'s sole responsibility.</string>
+    <string name="DISCLAIMER_12">h. Claims: FRNSW and You acknowledge that: (i) FRNSW, not Google, are responsible for addressing any claims of You or any third party relating to the Licensed Application or Your possession and/or use of the Licensed Application, including, but not limited to: (A) product liability claims; (B) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and (C) any claims arising under consumer protection or similar legislation; and (ii) in the event of any third party claim that the Licensed Application or Your possession and use of that Licensed Application infringes that third party’s intellectual property rights, FRNSW, not Google, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.</string>
+    <string name="DISCLAIMER_13">i. Limitation of Liability: Subject to the qualifications set out in section 64A of Schedule 2 of the CCA or any other law, FRNSW\'s liability for breach of any implied or imposed condition, warranty, guarantee or right in connection with the supply of the Service is limited to any one or more of the following (at the election of FRNSW): (i) supplying the Service again. SUBJECT TO THE FOREGOING, TO THE MAXIMUM EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT SHALL FRNSW BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE) AND EVEN IF FRNSW HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</string>
+    <string name="DISCLAIMER_14">j. Disclaimer and indemnity: An external third party provider is responsible for providing GPS information used in connection with the Service. The availability and accuracy of such information is beyond FRNSW\'s control. Accordingly, location data provided in connection with any Service is for basic location identification purposes and subject to the limitations set out in paragraph (a) above. Neither FRNSW, nor any of its content providers, guarantees the availability, accuracy, completeness, reliability, or timeliness of location data displayed in connection with any Service.</string>
+    <string name="DISCLAIMER_15">To the maximum extent permitted by applicable law, FRNSW disclaims all liability for or in connection with: (i) any misuse or misunderstanding of any Content contained in the Licensed Application; (ii) any loss, damage or injury, be it health, financial or otherwise, suffered by any individual, group or organisation acting upon or relying on information contained within the Licensed Application; (iii) any unavailability of the Licensed Application or the Service for any reason; (iv) the matters set out in paragraph (a) of this license; and (v) the actions or omissions of any emergency services operator in relation to calls made using the Service.</string>
+    <string name="DISCLAIMER_16">You indemnify FRNSW against all liability, loss, damage or injury (including consequential loss and damage and any legal costs) suffered by any person, organisation or entity in connection with the use of Content or the Licensed Application . You accept and acknowledge that You remain liable for all and any act or omission that any person, organisation or entity undertakes as a result of Content sourced via the Licensed Application.</string>
+    <string name="DISCLAIMER_17">k. Representations and warranties: You represent and warrant that: (i) You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a \"terrorist supporting\" country; and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties.</string>
+    <string name="DISCLAIMER_18">l. Contacting FRNSW:  You may direct Your questions, complaints or claims in respect of the Licensed Application to FRNSW at the following contact details: Commissioner Fire &amp; Rescue NSW, Level 10, 227 Elizabeth Street, Sydney, NSW 2000, +61 2 9265 2999 and TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_19">m. Third party beneficiary: FRNSW and You acknowledge and agree that Google, and Google’s subsidiaries, are third party beneficiaries of this license, and that, upon Your acceptance of the terms and conditions of this license, Google will have the right (and will be deemed to have accepted the right) to enforce this license against You as a third party beneficiary thereof.</string>
+    <string name="DISCLAIMER_20">n. Governing law: The laws of New South Wales, Australia, govern this license and your use of the Licensed Application and You submit to the non-exclusive jurisdiction of the Courts of New South Wales, Australia. Your use of the Licensed Application may also be subject to other local, state, national, or international laws.</string>
+
+
+    <!-- Not used -->
+
+    <!--
+    Localizable.strings
+    Emergency -->
+
+
+    <string name="iosCallPolice">Call Police Assistance Line</string>
+    <string name="iosTellOperator">Tell the operator your location</string>
+    <string name="iosNoLong">No Long</string>
+    <string name="iosNoLat">No Lat</string>
+    <string name="iosLoading">Loading...</string>
+    <!--<string name="iosCall000">Call 000</string>-->
+    <string name="iosCall112">Call 112</string>
+    <string name="iosPressButton">PRESS THIS BUTTON</string>
+    <string name="iosLifeThreatening">LIFE THREATENING</string>
+    <string name="iosCritical">CRITICAL</string>
+    <string name="iosInEmergency">%1$s IN A %2$s OR %3$s EMERGENCY</string>
+    <string name="iosFlood">FLOOD</string>
+    <string name="iosStorm">STORM</string>
+    <string name="iosInEmergencyHelp">%1$s FOR %2$s OR %3$s EMERGENCY HELP</string>
+    <string name="iosNonUrgent">NON-URGENT</string>
+    <string name="iosPoliceAssist">%1$s FOR %2$s POLICE ASSISTANCE</string>
+    <string name="iosCustom">CUSTOM NUMBER</string>
+    <string name="iosPressFor">PRESS FOR YOUR %s</string>
+    <string name="iosPressForYour">PRESS FOR YOUR CUSTOM NUMBER</string>
+    <string name="iosCannotObtain">Cannot obtain address.</string>
+    <string name="iosOK">OK</string>
+    <string name="iosCalculating">calculating...</string>
+    <string name="iosLegal">Legal, opens in Safari</string>
+    <string name="iosCalculatingAddress">Calculating address...</string>
+    <string name="iosGPSCOORDS">GPS COORDINATES %1$s\nLAT: %2$s LONG: %3$s\n%4$s\n%5$s</string>
+    <string name="iosLAT2">LAT: </string>
+    <string name="iosTapCall">Tap Call</string>
+    <string name="iosConfirmCall">Confirm Call</string>
+    <string name="iosTapSpeaker">Tap Speaker</string>
+    <string name="iosDoubleTapHome">Double Tap Home</string>
+    <string name="iosTapEmergency">Tap Emergency + icon</string>
+
+    <!-- these are image related strings that may be extracted for alterations to images -->
+    <string name="iosEMERGENCY">EMERGENCY</string>
+    <string name="iosSESCAPS">STATE EMERGENCY SERVICE</string>
+    <string name="iosPOLICE">POLICE</string>
+    <string name="iosSAVE000">SAVE 000 FOR EMERGENCIES</string>
+
+
+    <string name="iosAgreement">LICENSED APPLICATION END USER LICENSE AGREEMENT</string>
+
+    <string name="iosDisableAirplane">You must disable airplane mode to place a call</string>
+
+    <string name="iosViewDemonstration">View Demonstration</string>
+
+    <string name="iosPressSpeaker">Press the Speaker button</string>
+    <string name="iosDoubleTapHomeButton">Double Tap the Home button</string>
+    <string name="iosPressEmergencyIcon">Press the “Emergency + Icon</string>
+
+    <string name="iosCallSESspaced">Call S E S</string>
+
+    <string name="iosNRSLinkHeading">Link to Nation Relay Service website</string>
+
+    <string name="iosSection1">Section 1</string>
+    <string name="iosSection2">Section 2</string>
+    <string name="iosSection3">Section 3</string>
+
+    <!--<string name="iosCancel">Cancel</string>-->
+
+    <string name="iosLocateLock">Locate me lock</string>
+    <string name="iosLocateFree">Locate me free</string>
+    <string name="iosViewDemo">view demo</string>
+
+
+</resources>

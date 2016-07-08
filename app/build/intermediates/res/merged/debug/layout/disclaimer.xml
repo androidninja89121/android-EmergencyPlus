@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RootView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="280dip"
+    android:orientation="vertical"
+    android:weightSum="1"
+    >
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:id="@+id/logoLayout">
+
+        <ImageView style="@style/ImageHeader" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/disclaimerTextLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/logoLayout"
+        >
+
+        <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical"
+            android:paddingBottom="15dp"
+            android:requiresFadingEdge="vertical"
+            android:background="@color/dark_red"
+            android:scrollbars="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent" >
+
+                <WebView
+                    android:id="@+id/wvDisclaimer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15sp"
+                    android:layout_marginRight="15sp"
+                    android:layout_marginBottom="75sp"
+                    android:background="@color/transparent_black"
+                    />
+            </RelativeLayout>
+
+        </ScrollView>
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/bgd_top"
+            />
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_above="@+id/lloButton"
+            android:background="@drawable/bgd_bottom"
+            />
+
+        <LinearLayout
+            android:id="@id/lloButton"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:background="@color/dark_red">
+
+            <Button
+                android:id="@+id/disclaimerAgreeBtn"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_margin="15dp"
+                android:textColor="@color/dark_red"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:background="@drawable/button_background"
+                android:onClick="onAcceptPressed"
+                android:text="@string/Agree" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

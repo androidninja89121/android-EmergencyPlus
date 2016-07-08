@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\color\\abs__primary_text_holo_light.xml"
+    }
+]

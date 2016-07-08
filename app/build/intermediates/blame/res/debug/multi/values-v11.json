@@ -1,0 +1,138 @@
+[
+    {
+        "outputFile": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 442
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 442
+                    }
+                }
+            }
+        ]
+    }
+]

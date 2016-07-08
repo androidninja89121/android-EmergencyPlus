@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!--
+     Demonstrates basic application screen.
+     See corresponding Java code com.android.sdk.app.HelloWorld.java.
+-->
+
+<!--
+     This screen consists of a single text field that
+     displays our "Hello, World!" text.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/body_background"
+    tools:context=".HomeFragment" >
+
+    <LinearLayout
+        android:id="@+id/llHome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".HomeFragment" >
+
+        <!-- Top Section -->
+        <LinearLayout
+            android:id="@+id/llTopSection"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="8"
+            android:layout_marginRight="12dp"
+            android:orientation="horizontal"
+            android:background="@color/transparent"
+            tools:context=".HomeFragment" >
+
+            <ImageButton
+                android:id="@+id/call_000_btn"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:padding="0dp"
+                android:layout_weight="6"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/Call000"
+                android:src="@drawable/call000" />
+
+            <LinearLayout
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:layout_marginTop="15dp"
+                android:padding="0dp"
+                android:background="@color/dark_red"
+                android:orientation="vertical"
+                tools:context=".HomeFragment" >
+
+                <ImageButton
+                    android:id="@+id/call_ses_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="5"
+                    android:contentDescription="@string/CallSES"
+                    android:padding="0dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/call_ses132500" />
+
+                <ImageButton
+                    android:id="@+id/call_police_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="5"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@string/CallPal"
+                    android:padding="0dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/call_police131444" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_below="@id/call_000_btn"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="15dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/line" />
+
+        <!-- Bottom Section -->
+        <RelativeLayout
+            android:layout_height="148dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="0dp">
+
+            <!-- No GPS Available -->
+            <LinearLayout
+                android:id="@+id/llNoGPS"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/map_region"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/NOGPS"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- Location Details -->
+            <RelativeLayout
+                android:id="@+id/rlThumMapArea"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/map_region"
+                >
+
+                <TextView
+                    android:id="@+id/relayCoordsTextView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center_horizontal"
+                    android:text="@string/TellOperatorLocation"
+                    android:textColor="@color/dark_red"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_margin="0dp"
+                    android:layout_below="@id/relayCoordsTextView">
+
+                    <RelativeLayout
+                        android:id="@+id/map_holder"
+                        android:layout_weight="3"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent">
+                        <fragment
+                            android:id="@+id/thumb_map"
+                            android:name="com.google.android.gms.maps.SupportMapFragment"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp"
+                        android:layout_weight="5"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/gpsCoordinates"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/GPS"
+                            android:textColor="@color/light_blue"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/latTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/gpsCoordinates"
+                            android:layout_below="@+id/gpsCoordinates"
+                            android:text="@string/Lat"
+                            android:textColor="@color/dark_red"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/longTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/latTextView"
+                            android:layout_below="@+id/latTextView"
+                            android:text="@string/LONG"
+                            android:textColor="@color/dark_red"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/latValueTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/longTextView"
+                            android:layout_alignParentRight="true"
+                            android:textColor="@color/dark_red"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/longValueTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/longTextView"
+                            android:layout_alignBottom="@+id/longTextView"
+                            android:layout_alignParentRight="true"
+                            android:text=""
+                            android:textColor="@color/dark_red"
+                            android:textStyle="bold" />
+
+                        <View
+                            android:id="@+id/seperatorView"
+                            android:layout_width="fill_parent"
+                            android:layout_height="1dp"
+                            android:layout_alignLeft="@id/gpsCoordinates"
+                            android:layout_below="@id/longTextView"
+                            android:layout_marginBottom="3dp"
+                            android:layout_marginTop="3dp"
+                            android:background="@color/dark_red" />
+
+                        <TextView
+                            android:id="@+id/addressTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/longTextView"
+                            android:layout_alignRight="@+id/longValueTextView"
+                            android:layout_below="@id/seperatorView"
+                            android:text="@string/NoAddress"
+                            android:textColor="@color/dark_red"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

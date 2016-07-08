@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    }
+]

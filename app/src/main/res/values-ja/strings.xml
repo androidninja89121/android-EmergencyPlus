@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Localizable.strings
+    Emergency -->
+
+    <string name="starting_app">始動 緊急プラス</string>
+    <string name="noGPSDialogMessage">緊急+はあなたの場所を決定することを可能にするために位置情報サービスで回し</string>
+    <string name="iosCallPolice">ポリスアシスタンスラインに電話する</string>
+    <string name="Call000">000に電話する</string>
+    <string name="CallSES">州緊急サービスに電話する</string>
+    <string name="iosTellOperator">オペレータに現在地を知らせる</string>
+    <string name="GPS">GPS座標</string>
+    <string name="LONG">経度：</string>
+    <string name="Lat">緯度：</string>
+    <string name="iosNoLong">経度なし</string>
+    <string name="iosNoLat">緯度なし</string>
+    <string name="NoAddress">所は検出されませんでした</string>
+    <string name="NOGPS">GPS利用不可</string>
+    <string name="iosLoading">読み込み中...</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="Call">電話する</string>
+    <!--<string name="iosCall000">000に電話する</string>-->
+    <string name="LifeThreatCritical">命が危険にさらされている場合や重大な緊急事態の場合</string>
+    <string name="iosCall112">112に電話する</string>
+    <string name="OutsideAus">GPS座標はオーストラリア外です。 112に電話しますか？</string>
+    <string name="Home">ホーム</string>
+    <string name="iosPressButton">このボタンを押してください</string>
+    <string name="iosLifeThreatening">命に関わる脅威</string>
+    <string name="iosCritical">重大</string>
+    <string name="iosInEmergency">%1$s の %2$s または %3$s の緊急事態</string>
+    <string name="iosFlood">洪水</string>
+    <string name="iosStorm">嵐</string>
+    <string name="iosInEmergencyHelp">%1$s の %2$s または %3$s の緊急時の支援</string>
+    <string name="iosNonUrgent">緊急ではありません</string>
+    <string name="iosPoliceAssist">%1$s警察による支援は%2$sです</string>
+    <string name="iosCustom">カスタム番号</string>
+    <string name="iosPressFor">％＠の場合には、これを押してください</string>
+    <string name="iosPressForYour">カスタム番号の場合には、これを押してください</string>
+    <string name="CallString">%sに電話する</string>
+    <string name="StateEmergencyHelp">洪水や嵐が発生した場合の支援には、州緊急サービス</string>
+    <string name="PoliceNonUrgent">緊急ではない支援には、ポリスアシスタンスライン</string>
+    <string name="iosCannotObtain">住所を取得できませんでした。</string>
+    <string name="iosOK">OK</string>
+    <string name="iosInfo">情報</string>
+    <string name="iosCalculating">計算中 ...</string>
+    <string name="Map">地図</string>
+    <string name="iosLegal">合法、Safariで開きます</string>
+    <string name="iosCalculatingAddress">住所を計算中 ...</string>
+    <string name="Accurate">精度は%dメートル単位</string>
+    <string name="AddressUpdated">（現在地更新は%s）</string>
+    <string name="iosGPSCOORDS">GPS座標%1$s\n緯度： %2$s 経度： %3$s\n%4$s\n%5$s</string>
+    <string name="iosLAT2">緯度：</string>
+    <string name="LocationDisabled">位置情報サービス無効\n%s位置と住所を表示するには、あなたの所在地にアクセスする必要があります。 デバイスの環境設定で位置情報サービスをオンにしてください。</string>
+    <string name="iosTapCall">希望する支援をタップしてください</string>
+    <string name="iosConfirmCall">通話を確認してください</string>
+    <string name="iosTapSpeaker">スピーカーをタップする</string>
+    <string name="iosDoubleTapHome">ホームをダブルタップする</string>
+    <string name="iosTapEmergency">Emergency+ アイコンをタップする</string>
+    <string name="TellOperatorLocation">オペレータに現在地を知らせる</string>
+    <string name="Done">完了</string>
+
+    <!-- these are image related strings that may be extracted for alterations to images -->
+    <string name="iosEMERGENCY">EMERGENCY</string>
+    <string name="iosSESCAPS">STATE EMERGENCY SERVICE</string>
+    <string name="iosPOLICE">POLICE</string>
+    <string name="iosSAVE000">000は、緊急時にのみ利用してください</string>
+
+
+    <string name="iosAgreement">ライセンスアプリケーション・ エンドユーザ使用許諾契約</string>
+
+    <!-- disclaimer blob that causes difficult to locate errors, hence breakup. -->
+
+    <string name="DISCLAIMER_1">本ライセンスの対象であり、Emergency+という名称でGoogle Playから無料ダウンロードできる、各種機能とツールを含むモバイルデバイスアプリケーションを、本契約書では「ライセンスアプリケーション」と呼びます。 ニューサウスウェールズ火災救助チーム(Fire and Rescue New South Wales(FRNSW))はニューサウスウェールズ州の権限において国家を代行し、「トリプルゼロアウェアネスグループ」の一環であるライセンスアプリケーションの開発の一端を担ってきました。このライセンスアプリケーションには、クライムストッパーズオーストラリアリミテッド(Crime Stoppers Australia Limited)、 NSW州緊急サービス(NSW State Emergency Service)、NSW州警察(NSW Police Force)および緊急管理オーストラリア(Emergency Management Australia)が所有するコンテンツ（下記の段落(f)に定義）が含まれています。このライセンスアプリケーションは、本許諾契約の条件が満たされた場合にその使用がお客様に許諾されるのであり、販売されることはありません。本ライセンスアプリケーションとそのコンテンツの責任はすべて、FRNSWが負います。FRNSWは、本使用許諾契約で明示的にお客様に付与されていないすべての権利を留保します。</string>
+
+    <string name="DISCLAIMER_2">a. ライセンスアプリケーションの説明： ライセンスアプリケーションによって提供されるサービスは、起きたイベントの状況に適切な緊急サービスにお客様の携帯電話から連絡することを可能にし、GPS座標を利用して、緊急サービスオペレータがお客様の所在地を確認すること（「サービス」）を可能にします。 サービスは以下の制約を受けます。 (i)GPSを継続して使用すると、電池の寿命が劇的に削減します; (ii) 緊急通話を受けたオペレータが所在地を示す座標を誤って記入するリスクがあり、その場合、緊急サービスが別の場所に派遣される場合があります；(iii) GPS情報の可用性と正確さは、信号の可用性、モバイルデバイスの適切性、所在地および地理的要因（GPS信号は植物が密生している場合や高層ビルがある場合には遮断されることがあるほか、室内では充分に作動しない場合がある）により制約を受けます； (iv) ライセンスアプリケーションは、オーストラリア国内でのみ使用可能であり、そのサービスはオーストラリア国内でのみ利用可能です。 そのため、ライセンスアプリケーションの使用にあたっては、固定電話から緊急サービスに連絡する場合に比べて正確さが劣り、かつ以下の制約を受けることを、お客様は受諾し、了承します。</string>
+
+    <string name="DISCLAIMER_3">b. ライセンスの範囲： FRNSWが本ライセンスアプリケーションに関してお客様に付与したライセンスは、お客様が所有または管理するiPhoneまたはiPod touch上でライセンスアプリケーションを使用するための譲渡不可のライセンスであり、Google Play利用条件の9.b.条にある利用規定（「利用規定」）に従い使用するためのものです。 このライセンスでは、あなたが所有または管理しないiPod touchまたはiPhone上でライセンスアプリケーションを使用することはできません。また、複数のデバイスによって同時に使用される可能性のあるネットワーク上では、本アプリケーションを配布したり利用したりしてはなりません。ライセンスアプリケーションの貸し出し、リース、貸与、販売、再配布、サブライセンスはできません。 ライセンスアプリケーション、そのアップデートまたはその一部を複製してはならず（ただし、このライセンスおよび利用規定で明示的に許可されている場合を除く）、逆コンパイル、リバースエンジニアリング、分解、ソースコードの抽出、修正または派生品を作成してはなりません（ただし、適用法により前述の制約が禁止された場合、あるいはライセンスアプリケーションに含まれているオープンソースコンポーネントの使用を規定する使用許諾条件により許可されている範囲においては、行うことができる）。これらの行為を試みた場合は、FRNSWおよびそのライセンサーの権利に対する違反となります。 この制約に違反した場合、訴訟および賠償の対象となる場合があります。 ライセンスの条件は、使用許諾を受けた元のアプリケーションの代わりとなる、および/または補足するためにFRNSWが提供するアップグレードを管理しますが、そのアップグレードが別のライセンスを伴う場合は、そのライセンスの条件により管理されます。</string>
+
+    <string name="DISCLAIMER_4">c. データ使用に関する同意： お客様は、FRNSWが技術データおよび関連情報を収集および利用することに同意します。この技術データおよび関連情報は、ライセンスアプリケーションに関連する（存在する場合）ソフトウェアのアップデート、製品のサポートおよびその他のサービスを促進するために定期的に回収される、お客様のデバイス、システムおよびアプリケーションソフトウェアおよび周辺機器に関する技術情報に限定されません。 FRNSWは、お客様を個人的に特定する形で行わない限り、この情報を利用して製品の改善、あるいはお客様へのサービスや技術の提供を行えます。 ライセンスアプリケーションの使用中にお客様が提供する個人情報の取り扱いは、随時修正されるFRNSWのプライバシーポリシーに基づいて行われます(http://www.fire.nsw.gov.au/page.php?id=700参照）。</string>
+
+    <string name="DISCLAIMER_5">d. 解除： 本ライセンスは、お客様またはFRNSWが解除するまで有効です。 本ライセンスの条件のいずれかにお客様が違反した場合、本ライセンスはFRNSWが通知を行うことなく、自動的に終了します。お客様はライセンスが終了すると同時にライセンスアプリケーションの使用をすべて停止し、ライセンスアプリケーションのすべてのコピー（完全版またはその一部）を廃棄しなければなりません。</string>
+
+    <string name="DISCLAIMER_6">e. メンテナンスおよびサポート： FRNSWおよびお客様は、ライセンスアプリケーションのメンテナンスおよびサポートサービスを提供する義務がGoogleに一切ないことを了解します。  メンテナンスサービスは、FRNSWがGoogle Playで随時利用可能とするアップグレードに限られます。  FRNSWはライセンスアプリケーションに関し、以下の電子メール宛ての妥当な要求に応えて電子メールによるサポートを行うこともあります： TripleZero@fire.nsw.gov.au.</string>
+
+    <string name="DISCLAIMER_7">f. コンテンツ： 本サービスは、第三者からのコンテンツ、データ、情報、アプリケーションまたはマテリアルを表示し、含み、あるいはそれらを利用可能にし（「コンテンツ」）、特定の第三者ウェブサイトへのリンクを提供する場合があります。 本サービスを利用することにより、FRNSWがコンテンツ、正確性、完成度、適宜性、有効性、著作権への遵守、合法性、良識性、品質または本コンテンツまたはウェブサイトのその他の面に対する検証または評価の責任がないことを、お客様は了解し、同意します。 FRNSWは、任意の第三者によるサービス、コンテンツまたはウェブサイト、あるいは第三者によるその他のマテリアル、製品またはサービスについて、一切保証、承認、負担せず、かつこれらを有しないものとします。コンテンツおよびその他のウェブサイトへのリンクは、お客様の便宜性のためにのみ提供されています。</string>
+
+    <string name="DISCLAIMER_8">本サービスには、著作権に関わるものだけでなく、該当する知的所有権法およびその他の法律により保護されている、専有コンテンツ、情報および資料が含まれていることをお客様は了解し、そのような専有コンテンツ、情報または資料を本サービスで許可されている方法以外のいかなる方法においても利用しないことに同意します。 本サービスのいかなる部分も、いかなる形式や方法をもってしても複製してはなりません。 いかなる方法によっても、本サービスを修正、貸し出し、リース、貸与、販売、分配または派生品を作成しないことにお客様は同意し、本サービスを不正な方法によって不当に利用しないことに同意します。これには不法侵害またはネットワーク機能に負荷をかけることが含まれますが、これに限定されていません。</string>
+
+    <string name="DISCLAIMER_9">FRNSWおよびそのライセンサーは、通知することなく、本サービスの任意の要素を変更、一時停止、削除または無効にする権利を有します。 いかなる場合においても、本サービスの任意の要素の削除または無効にしたことに対して、FRNSWには法的責任がありません。 FRNSWは、任意の状況において、通知することなく、また法的責任をとることなく、本サービスの特定要素の利用またはアクセスに制約を設けることもできます。</string>
+
+    <string name="DISCLAIMER_10">g. 無保証： お客様は、適用法令上許される限り、ライセンスアプリケーションのご利用に対する責任がお客様自身にあること、十分な品質、性能、正確性および努力に関する包括的責任がお客様にあることを明示的に了解し、同意されたものとします。 契約により除外できない、2010年競争・消費者法(CTH)（「CCA」）またはその他の法律により暗示または強制された条件、保証、または権利に従い、本ライセンスアプリケーションおよび本サービスは、「現状のまま」かつ「提供可能な範囲」で、瑕疵を含め保証なく提供されます。FRNSWは本ライセンスアプリケーションおよび本サービスに関し、明示的、暗示的あるいは法律上示されているすべての条件、保証および権利を放棄します。これには、条件の保証および/または市場性の保証、品質が満足するものであること、商品適格性、正確性、平穏享有および第三者の権利を侵害しないことが含まれますが、これらに限定されません。\n\nFRNSWはライセンスアプリケーションに対するお客様自身の享有に障害が起こらないことを保証しません。ライセンスアプリケーションに含まれている機能、行われるまたは提供されるサービスがあなたの要件を満足し、本アプリケーションまたはサービスが中断なくまたはエラーが生じることなく運用され、本アプリケーションまたはサービスの欠陥が修正されることを保証しません。 FRNSWまたはその正式な代表による口頭または書面による情報またはアドバイスは、保証となりません。 ライセンスアプリケーションまたはサービスに欠陥がある場合、適用法で最大限に許可される限り、必要なサービス、修理または修正にかかる全費用は、お客様が負担します。</string>
+
+    <string name="DISCLAIMER_11">ライセンスアプリケーションが任意の保障を満たさない場合、Googleに通知することによりGoogleはお客様に本アプリケーションの購入費用を返金します。 適用法で許可される最大限において、ライセンスアプリケーションに関するその他のいかなる保証義務もGoogleにはなく、保証を満たさなかったために生じたクレーム、損失、賠償、損傷、経費または費用は、FRNSWの単独責任となります。</string>
+
+    <string name="DISCLAIMER_12">h. クレーム： FRNSWおよびお客様は、以下を了解します。 (i) ライセンスアプリケーションならびにライセンスアプリケーションのお客様による所有と利用に関するお客様または第三者からの下記を含むクレームについては、GoogleではなくFRNSWが対処します。すなわち、(A) 製造物責任のクレーム、(B) ライセンスアプリケーションが適用法または規制要件に適合しないことによるクレーム、および (C) 消費者保護または同様の法令のもとで生じた任意のクレーム、および (ii) ライセンスアプリケーション自体またはライセンスアプリケーションの所有および利用が第三者の知的所有権を侵害しているというクレームが第三者から生じた場合、GoogleではなくFRNSWのみが、かかる知的所有権侵害のクレームの調査、弁護、調停および免責の責任を負います。</string>
+
+    <string name="DISCLAIMER_13">i. 責任の制限： CCAの附則2の64A条またはその他の法律に示されている条件に従い、本サービスの供給に関わる、暗黙または強制された状態、保証、または権利を違反したことによるFRNSWの法的責任は、以下の1つ以上に限定されます（FRNSWの選択による）： (i) 再度本サービスを提供すること。 前述の記述に従い、適用法により禁止されてない最大限において、いかなる場合においてもFRNSWは人身事故あるいはいかなる偶発的、特別、間接的または結果として生じた損失または利益損失による損害に対する法的責任がありません。 これには、原因および責任の理論に関わらず（契約、不法行為またはその他）、そしてFRNSWがそのような損害の可能性の報告を受けていた場合も、ライセンスアプリケーションの使用または使用できなかったことによって生じた、または関連して生じた利益の損失、データ損失、事業中断による損失、あるいはその他の商業的損害または損失が含まれますが、それに限定されていません。</string>
+
+    <string name="DISCLAIMER_14">j. 免責事項： 本サービスと共に使用されるGPS情報を提供する責任は、外部第三者のプロバイダーにあります。 この情報の可用性および正確性は、FRNSWの責任範囲を超えています。 そのため任意のサービスに関連して提供される所在地データは、基本的な所在地確認のためであり、上記段落(a)に示されている制約を受けます。 FRNSWもそのコンテンツプロバイダーも、本サービスと共に表示される所在地データの可用性、正確性、完全性、信頼性または適宜牲を保証しません。</string>
+
+    <string name="DISCLAIMER_15">適用法で許可されている最大限において、FRNSWは以下と関連するすべての法的責任を放棄します。 (i) ライセンスアプリケーションに含まれている任意のコンテンツの誤用または誤解、(ii) ライセンスアプリケーションに含まれている情報に従って行動またはその情報に依存したことにより、個人、グループまたは組織に生じた、損失、損害または怪我（健康、金融またはその他の場合において）、(iii) 理由に関わらず、ライセンスアプリケーションまたはサービスが利用できないとき、(iv) このライセンスの段落(a)に示されていること、(v) 本サービスを使用して行われた通話に関連して行われた、緊急サービスオペレータの行動または行動の欠如。</string>
+
+    <string name="DISCLAIMER_16">お客様は、コンテンツまたはライセンスアプリケーションの使用に関連して、人物、組織または団体が蒙ったすべての法的責任、損失、損害または怪我（これには結果として生じた損失および損害、および法的費用を含む）からFRNSWを免責します。 お客様は、ライセンスアプリケーションを介して入手したコンテンツの結果として、任意の人物、組織または団体が行った行動または行動の欠如に対する責任がお客様にあることを了解し、承認します。</string>
+
+    <string name="DISCLAIMER_17">k. 表明と保証： お客様は以下を表明し、保証します。 (i) お客様はアメリカ合衆国政府の通商禁止を受けている、あるいはアメリカ合衆国政府から「過激派を支援する」国として指定されている国に居ません、かつ、(ii) お客様は、アメリカ合衆国政府による禁止あるいは制限を受けた当事者リストに掲載されていません。</string>
+
+    <string name="DISCLAIMER_18">l. FRNSWへの連絡方法：  ライセンスアプリケーションに関するご質問、苦情またはクレームは、FRNSWの以下の連絡先に行ってください。 Commissioner Fire &amp; Rescue NSW, Level 10, 227 Elizabeth Street, Sydney, NSW 2000, +61 2 9265 2999 および TripleZero@fire.nsw.gov.au。</string>
+
+    <string name="DISCLAIMER_19">m. 第三者の受益者： FRNSWおよびお客様は、Googleおよびその子会社が、本ライセンスの第三者受益者であることを了解および同意し、本ライセンスの利用規定の承認後、Googleは第三者受益者としてお客様に対して本ライセンスを強制する権利（そしてあなたがその権利を承認したことになる）があることを了解し、同意します。 </string>
+
+    <string name="DISCLAIMER_20">n. 準拠法： 本ライセンスおよび本ライセンスアプリケーションの利用は、オーストラリア、ニューサウスウェールス州の法律に準拠し、オーストラリア、ニューサウスウェールス州の非排他的裁判権に従います。 ライセンスアプリケーションの使用には、その他の地方、州、国内または国際法が適用される場合があります。</string>
+
+
+    <string name="iosDisableAirplane">電話をかけるには、機内モードを無効にする必要があります</string>
+
+    <string name="iosMapReturn">電話をかける際、地図画面に戻るにはどうしたらよいですか？</string>
+
+    <string name="iosViewDemonstration">デモンストレーションを表示</string>
+
+    <string name="iosPressSpeaker">スピーカボタンを押す</string>
+    <string name="iosDoubleTapHomeButton">ホームボタンをダブルタップする</string>
+    <string name="iosPressEmergencyIcon">Emergency+アイコンを押す</string>
+
+    <string name="BestAssist">最適な支援依頼先は？</string>
+
+    <string name="CallTZ000">000に電話する</string>
+
+    <string name="InjuredMedical">重傷を負ったり救急医療を要したりする人がいますか？</string>
+    <string name="LifePropertyThreatened">あなたの命や財産が危険にさらされていますか？</string>
+    <string name="SeriousOrCrime">重大な事故または犯罪を目撃しましたか？</string>
+    <string name="FocusedRelevant">神経を集中させ、注意をそらさず、通話状態を保ってください。</string>
+
+    <string name="CallSES132500">州緊急サービス132500に電話する</string>
+
+    <string name="iosCallSESspaced">州緊急サービスに電話する</string>
+
+    <string name="ForFloodStormsCyclones">洪水、台風・暴風雨発生時の緊急支援が必要な場合</string>
+
+    <string name="CallPAL131444">ポリスアシスタンスライン131444に電話する</string>
+
+    <string name="CallPal">ポリスアシスタンスラインに電話する</string>
+
+    <string name="VictimPAL">犯罪に遭った場合や命が危険にさらされている場合には、131444に電話して警察の援助を受けてください。</string>
+
+    <string name="OtherNational">他の国内番号</string>
+
+    <string name="CallCrimeStoppers1800333000">クライムストッパーズ1800333000に電話する</string>
+
+    <string name="CallCrimestoppers">クライムストッパーズに電話する</string>
+
+    <string name="CrimeStoppersInfo">クライム・ストッパーズは、一般の人々による犯罪情報提供を可能にする、コミュニティベースのイニシアチブです。</string>
+    <string name="Anonymous">匿名で行えます。</string>
+    <string name="CrimeStoppersVisit">www.crimestoppers.com.auをご覧ください。</string>
+
+    <string name="CallHealthDirect1800022222">健康ダイレクト1800022222に電話する</string>
+
+    <string name="CallHealthDirect">健康ダイレクトに電話する</string>
+
+    <string name="HealthDirectInfo">健康上の心配事があってどうしたらよいかわからない場合には、1800022222に電話し、看護師に相談することができます。</string>
+    <string name="HealthDirectAdvice">健康上の問題について、専門家からのアドバイスを迅速に得られるので、納得した上で対処することができます。</string>
+
+    <string name="NRS">全国リレーサービス</string>
+
+    <string name="iosNRSLinkHeading">全国リレーサービスウェブサイトへのリンク</string>
+
+    <string name="DeafHearing">聴覚障害や難聴がありますか？</string>
+    <string name="Speech">言語障害がありますか？</string>
+    <string name="NRSInfo">これらの救急番号や支援ラインは、NRSを通じて呼び出せます。</string>
+    <string name="RelayOfficerInfo">担当者があなたからの電話を受け、依頼内容に適したサービスに取り次ぎます。</string>
+    <string name="NRSMore">NRSを使って緊急サービスに連絡をとる詳しい方法を調べます。</string>
+    <string name="TapNRSIcon">ウェブサイトにアクセスするには、NRSアイコンをタップしてください。</string>
+
+    <string name="Vision">このアプリケーションの使い勝手を改善するにあたってビジョン・オーストラリアが果たした貢献に対し、トリプルゼロ・アウェアネス・ワーク・グループは感謝します。</string>
+
+    <string name="ViewDisclaimer">免責事項を表示</string>
+
+    <string name="IAgree">同意する</string>
+
+    <string name="iosSection1">第一部</string>
+    <string name="iosSection2">第二部</string>
+    <string name="iosSection3">第三部</string>
+
+    <string name="Agree">同意する</string>
+
+    <!--<string name="iosCancel">キャンセル</string>-->
+
+    <string name="EmergencyPlus">緊急プラス</string>
+    <string name="Ready">緊急プラスの使用準備が完了しました</string>
+
+    <string name="SorryCrash">アプリがクラッシュしました。</string>
+
+    <string name="TurnOffAirplane">携帯電話から電話を掛けるには、機内モードをオフにしてください。</string>
+
+    <string name="LocateMe">自分の現在地</string>
+
+    <string name="iosLocateLock">自分の現在地をロックする</string>
+
+    <string name="iosLocateFree">自分の現在地を解放する</string>
+
+    <string name="ReadAccept">利用規約を読み、受諾しました。</string>
+
+    <string name="OneSecondAgo">1秒前</string>
+
+    <string name="SecondsAgo">%d秒前</string>
+
+    <string name="OneMinAgo">1分前</string>
+
+    <string name="MinutesAgo">%d分前</string>
+
+    <string name="OneHourAgo">1時間前</string>
+
+    <string name="HoursAgo">%d時間前</string>
+
+    <string name="DaysAgo">%d日前</string>
+
+    <string name="OneMonthAgo">1月前</string>
+
+    <string name="MonthsAgo">%d月前</string>
+
+    <string name="OneYearAgo">1年前</string>
+
+    <string name="YearsAgo">%d年前</string>
+
+    <string name="InfoPolice">警察に情報を提供するには</string>
+
+    <string name="HealthConcerns">健康に関するお悩み相談</string>
+
+    <string name="iosViewDemo">デモを表示</string>
+
+</resources>

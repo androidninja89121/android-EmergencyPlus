@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

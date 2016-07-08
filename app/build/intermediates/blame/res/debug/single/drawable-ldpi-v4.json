@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

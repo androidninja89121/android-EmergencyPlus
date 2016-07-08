@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Accurate">精确到%d 米</string>
+    <string name="AddressUpdated">（地址已更新%s）</string>
+    <string name="Agree">同意</string>
+    <string name="Anonymous">它可以是匿名的。</string>
+    <string name="BestAssist">谁能最好地帮助我？</string>
+    <string name="Call">呼叫</string>
+    <string name="Call000">呼叫000</string>
+    <string name="CallCrimeStoppers1800333000">拨打停止犯罪热线 1800 333 000</string>
+    <string name="CallCrimestoppers">拨打停止犯罪热线</string>
+    <string name="CallHealthDirect">呼叫健康援助热线</string>
+    <string name="CallHealthDirect1800022222">呼叫健康援助热线 1800 022 222</string>
+    <string name="CallPAL131444">呼叫警方援助热线 （131 444）</string>
+    <string name="CallPal">呼叫警方援助热线</string>
+    <string name="CallSES">呼叫州紧急服务中心</string>
+    <string name="CallSES132500">呼叫州紧急服务中心 132 500</string>
+    <string name="CallString">呼叫 %s</string>
+    <string name="CallTZ000">呼叫000</string>
+    <string name="Cancel">取消</string>
+    <string name="CrimeStoppersInfo">停止犯罪是一个以社区为基础的举措，为市民提供举报犯罪信息的能力。</string>
+    <string name="CrimeStoppersVisit">访问停止犯罪网站：www.crimestoppers.com.au</string>
+    <string name="DISCLAIMER_1">本移动设备应用程式及其所包含的功能和工具，可以从谷歌应用商店（Google Play）免费下载，名称为“紧急情况+”，受到本许可约束并且在本许可中被称作“已获许可的应用程式” 。新南威尔士州消防和救援局（ 下称“ FRNSW ” ），作为“三个零（000）宣传工作组”的成员，代表并为英联邦新南威尔士州政府服务，参与了“已获许可应用程式”的开发。“已获许可应用程式”包括“内容”，该“内容”由澳大利亚停止犯罪有限公司、新南威尔士州紧急服务中心，新南威尔士州警方和澳大利亚应急管理中心拥有（定义见下文第（ f）段）。“已获许可应用程式”只是授权给您使用而非出售给您，而且您必须遵守本许可中的条款。FRNSW 与您均确认，此许可仅在FRNSW和您本人之间订立，不涉及“三个零（000）宣传工作组”的任何其他成员、澳大利亚停止犯罪有限公司或谷歌公司。根据本许可中的条款和条件， FRNSW对“已获许可应用程式”及其内容负全部责任。FRNSW保留所有未明确授予您的权利。</string>
+    <string name="DISCLAIMER_10">g. 没有担保：您明确确认并同意，在适用法律许可的最大范围内，使用“已获许可应用程式”的风险由您自行承担，并且有关本程式品质满意度、性能、准确性和工作量的全部风险均由您承担。根据 《2010 年竞争与消费者法》(联邦政府)（“CCA”）默示或强制规定的任何条件、担保、保证或权利或任何其他协议不得排除的法律， “已获许可应用程式”和“服务”均按照其“原状”和“已有方式”提供。在不保证无瑕疵和不做任何担保的同时，FRNSW特此声明对与“已获许可应用程式”和任何服务相关的所有明示、默示或法定的条款、保证、担保和权利将不予负责，其中包括但不限于与下述各点有关的任何条件、保证和/或担保：适销性、品质满意度、特定用途的适用性、准确性、保密权和第三方知识产权维护。FRNSW不保证您在使用“已获许可应用程式”时不会受到干扰，不保证“已获许可应用程式”包含的功能、执行或提供的服务会符合您的要求，不保证“已获许可应用程式”或“服务”的运行不会中断或发生错误，也不保证“已获许可应用程式”或“服务”中的瑕疵会被改正。FRNSW或其授权代理人提供的任何口头或书面信息或建议不应构成保证。如果“已获许可应用程式”或“服务”被证明出现问题，在适用法律许可的最大范围内，您应承担所有必要的维修、修理或改正的全部费用。</string>
+    <string name="DISCLAIMER_11">如果“已获许可应用程式”未能符合适用保证，您可以告知谷歌公司，谷歌公司将会按照所付的“已获许可应用程式”购买价给您退款。在适用法律许可的最大范围内，谷歌公司对“已获许可应用程式”不再负有其他保证义务。因未能符合任何保证而造成的任何其他索赔、损失、责任、损坏、费用或开支将由FRNSW承担全部责任。</string>
+    <string name="DISCLAIMER_12">h. 索赔：FRNSW与您均确认：（i）对于您或任何第三方提出的，与“已获许可应用程式”或您对 “已获许可应用程式”的持有和/或使用相关的索赔，由FRNSW（而非谷歌公司）负责处理。这些索赔包括但不限于：（A）产品责任索赔；（B）由于“已获许可应用程式”未能符合适用法律或法定要求而提出的索赔；和（C）任何由于消费者保护或类似法律引起的索赔；和（ii）如有第三方声称“已获许可应用程式”或您对“已获许可应用程式”的持有和使用侵犯了该第三方的知识产权，则FRNSW（而非谷歌公司）将对此类知识产权侵权索赔的调查、辩护、处理和撤销承担全部责任。</string>
+    <string name="DISCLAIMER_13">i. 责任限制：根据CCA附表2第64A条或任何其他法律规定的限定条件，FRNSW因违反与提供“服务”有关的任何默示或强制规定的条款、保证、担保或权利而应承担的责任，仅限于下列一项或多项（由FRNSW选择）：（i）再次提供“服务”。根据前述内容，在适用法律不作禁止的最大范围内，FRNSW在任何情况下均不会对人身伤害，或任何偶然、特殊、间接或后续损失或损害承担责任。这些包括但不限于因利润损失、数据丢失、交易中断或任何其他商业损害或损失而产生的损害。不管这类损害是如何引起的，不管根据什么责任理论（合同、侵权行为或其他），即使FRNSW已被告知发生此类损害的可能性，或者这些损失损害是由于您对“已获许可应用程式”的使用或无法使用产生，FRNSW均不承担责任。</string>
+    <string name="DISCLAIMER_14">j. 免责声明和补偿：连接“服务”所使用的环球定位系统（GPS）信息由外部第三方负责提供。此类信息的可用性和准确性不在FRNSW控制范围之内。因此，与任何“服务”连接时提供的位置数据仅用于基本的位置确认并受到上述（a）段中所列限制因素的制约。对于连接任何“服务”时所显示位置数据的可用性、准确性、完整性、可靠性或及时性，FRNSW及其任何内容提供者均不做担保。</string>
+    <string name="DISCLAIMER_15">在适用法律许可的最大范围内，FRNSW对于下述各点不承担或牵连责任：（i）对“已获许可应用程式”所含“内容”的任何误用或误解；（ii）任何个人、团体或组织因依照或依赖“已获许可应用程式”中包含的资讯而遭受的任何损失、损害或伤害，不管是健康方面、经济方面或是其他方面；（iii）因任何原因无法使用“已获许可应用程式”或“服务”；（iv）本许可（a）段中列明的事项；和（v）任何紧急服务接线员对于使用“服务”发出的呼叫采取的行动或非行动。</string>
+    <string name="DISCLAIMER_16">对于任何个人、组织或机构因使用“内容”或“已获许可应用程式”而承受的所有责任、损失、损害或伤害（包括后续损失和伤害以及任何诉讼费用），您需对FRNSW做出补偿。您接受并确认，对于任何个人、组织或机构因“已获许可应用程式”所提供“内容”而采取的行动或非行动，您都负有责任。</string>
+    <string name="DISCLAIMER_17">k. 代表权及保证：您代表并保证：（i）您所在国家不受美国政府禁运限制，也不被美国政府指定为“支持恐怖分子”的国家；（ii）您本人没有被列在美国政府的任何禁止或受限人员名单上。</string>
+    <string name="DISCLAIMER_18">l. 联系FRNSW：您可以按照下述联系方式就“已获许可应用程式”向FRNSW进行谘询、投诉或索赔。地址：Commissioner Fire &amp; Rescue NSW, Level 10, 227 Elizabeth Street, Sydney, NSW 2000；电话： +61 2 9265 2999；邮箱：TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_19">m. 第三方受益人：FRNSW与您均确认并同意，谷歌公司及其子公司是本许可的第三方受益人。您接受本许可的条款和条件之後，谷歌公司将有权（且将被视作已经接受该权利）作为本许可的第三方受益人对您执行本许可。</string>
+    <string name="DISCLAIMER_2">a. 对“已获许可应用程式”的描述：通过“已获许可应用程式”所提供的服务，您可以根据自己所处的情况用手机呼叫相应的紧急服务，并通过环球定位系统（GPS）座标向紧急服务接线员确认自己的位置（下称“服务”）。“服务”存在以下限制条件：（i）持续使用环球定位系统（GPS）可能会大幅缩短电池寿命；（ii）存在接听紧急求助电话的接线员可能抄错位置座标的风险，在此情形下相应的紧急救助服务就会被派往错误的位置；（iii）环球定位系统（GPS）信息的可用性和准确性取决于信号的可用性、相关移动设备、位置和地理因素（GPS信号可能会受到茂密树丛或高楼的阻挡，也不能很好地穿透室内空间）；和（iv）“已获许可应用程式”只能在澳大利亚境内使用，并且“服务”只能在澳大利亚境内获得。因此，您接受并确认，“已获许可应用程式”使用时可能没有用座机呼叫紧急服务那样准确，并且受到前述因素的限制。</string>
+    <string name="DISCLAIMER_20">n. 管辖法律：澳大利亚新南威尔士州法律管辖本许可和您本人对“已获许可应用程式”的使用。您同意接受澳大利亚新南威尔士州法庭的非专属管辖权管辖。您对“已获许可应用程式”的使用还可能受到其他地方、州、国家或国际法律的约束。</string>
+    <string name="DISCLAIMER_3">b. 许可范围：本许可由FRNSW授予给您，用于“已获许可应用程式”，是授权您在《谷歌应用商店条款和条件》第9.b.条所列使用规则（下称“使用规则”）所允许的范围内、在您本人拥有或操作的任何谷歌手机（iPhone）或触控式音乐播放机（ iPod touch）上使用“已获许可应用程式”的不可转让性许可。本许可并未允许您在任何非您本人拥有或操作的谷歌触控式音乐播放机或谷歌手机上使用“已获许可应用程式”，您也不能通过网路传播或分享“已获许可应用程式”，因为程式可能会被多台设备同时使用。您不可以租借、出租、出售、重新分发或转授“已获许可应用程式”。您不可以对“已获许可应用程式”、任何程式升级或其中任何部分进行复制（本许可和“使用规则”明确准许的除外）、反编译、逆向设计、分解、尝试获取原始程式码、修改或进行衍生工作（除非并仅限於任何前述限制被适用法律禁止，或管辖 “已获许可应用程式”中任何公开资料使用的许可条款做出了允许）。对上述任何行为的尝试均属对FRNSW和其许可方权利的侵害。如果违反了这一限制，您可能会受到起诉并遭受损失。本许可条款同样适用于FRNSW提供的用于替换和/或补充原始“已获许可应用程式”的任何升级，除非该升级持有单独的许可，如持有单独许可，则以单独许可中的条款为准。</string>
+    <string name="DISCLAIMER_4">c. 同意使用数据：您同意FRNSW可以收集并使用技术数据和相关信息，包括但不限于有关您的设备、系统和应用软件、周边设备的技术信息，这些信息被定期收集起来以便更好地向您提供与“已获许可应用程式”相关的软体更新、产品支援和其他服务（如有的话）。通过无法辨识您个人身份的匿名方式，FRNSW可以利用这些资讯改善产品或为您提供服务或技术。如果您在使用“已获许可应用程式”的过程中提供了任何个人资讯，FRNSW会按照FRNSW隐私权政策对这些个人资讯进行处理，且FRNSW随时可能对该政策进行修订（见http://www.fire.nsw.gov.au/page.php?id=700）。</string>
+    <string name="DISCLAIMER_5">d. 终止：在您或FRNSW终止许可前，本许可一直有效。一旦违反本许可中的任何条款，您在本许可下的权力将自动终止，FRNSW将不再另行通知。一旦许可终止，您必须停止使用“已获许可应用程式”并销毁该程式的所有完整或部分副本。</string>
+    <string name="DISCLAIMER_6">e. 维护和支持：FRNSW与您均确认，谷歌公司没有任何义务提供与“已获许可应用程式”相关的任何维护和支援服务。维护服务将仅限于FRNSW不定时在谷歌应用商店里提供的升级。对于为获得关于“已获许可应用程式”的支援而提出的合理请求，FRNSW也可能提供邮件支援，可以将请求发送到以下邮箱：TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_7">f. 内容：“服务”可能会显示、包含或提供来自第三方的内容、数据、信息、应用或资料（下称“内容”），或提供第三方网站的链结。使用“服务”时，您确认并同意，FRNSW不负责检查或评估此类“内容”或网站的内容、准确性、完整性、及时性、有效性、版权合规性、合法性、庄重性、质量或任何其他方面。对于任何第三方服务、“内容”或网站，或对于第三方的任何其他资料、产品或服务，FRNSW 不做保证或认可，也不做假设，对您或其他任何人都不承担责任或负责。“内容”和提供与其他网站的链结，仅仅是为了您的便利。</string>
+    <string name="DISCLAIMER_8">您同意“服务”包括受到适用知识产权法和其他法律保护的专利内容、信息和资料，包括但不限于版权，您不能以任何方式使用这些专利内容、信息或资料，但被“服务”许可的使用除外。“服务”的任何部分不能以任何形式或通过任何方式进行复制。您同意不会以任何方式在“服务”的基础上进行修改、租借、出租、出借、出售、重新分发或创造衍生作品，您也不得以任何未经授权的方式开发“服务”，包括但不限于超出或对网路容量造成负担的方式。</string>
+    <string name="DISCLAIMER_9">FRNSW和其许可方保留随时对“服务”的任何要素进行更改、暂停、删除或禁用的权力，不再另行通知。在任何情况下FRNSW都不会对“服务”中要素的删除或禁用承担责任。FRNSW还可以在任何情况下对“服务”中某些要素的使用或访问进行限制，无需另行通知或承担责任。</string>
+    <string name="DaysAgo">後%d日経過</string>
+    <string name="DeafHearing">您是否耳聋或有听力障碍？</string>
+    <string name="Done">完成</string>
+    <string name="EmergencyPlus">Emergency+</string>
+    <string name="FocusedRelevant">保持镇定，保持谈话内容相关，保持在线</string>
+    <string name="ForFloodStormsCyclones">对于洪水，风暴和飓风紧急求助</string>
+    <string name="GPS">环球定位系统座标</string>
+    <string name="HealthConcerns">有关健康问题咨询</string>
+    <string name="HealthDirectAdvice">您会得到关于健康方面快速和专家方面的建议，帮助您做出如何解决问题的一个明智的决定。</string>
+    <string name="HealthDirectInfo">如果您有健康问题并且不知道该怎么办，请致电1800 022 222，与一名注册护士通话。</string>
+    <string name="Home">主屏幕</string>
+    <string name="HoursAgo">後%d時間経過</string>
+    <string name="IAgree">我同意</string>
+    <string name="InfoPolice">警察に情報を提供する</string>
+    <string name="InjuredMedical">是否有人严重受伤或需要紧急医疗帮助？</string>
+    <string name="LONG">经度: </string>
+    <string name="Lat">纬度:</string>
+    <string name="LifePropertyThreatened">是否您的生命或财产受到威胁？</string>
+    <string name="LifeThreatCritical">遇到危及生命或危险的紧急情况时</string>
+    <string name="LocateMe">找到我</string>
+    <string name="LocationDisabled">位置服务”被禁用\n%s 需要访问您设备配置中的位置功能，以显示您的位置和地址。请在您的设备配置中打开“位置服务</string>
+    <string name="Map">地图</string>
+    <string name="MinutesAgo">後%d分経過</string>
+    <string name="MonthsAgo">後1年前経過</string>
+    <string name="NOGPS">没有可用的环球定位系统</string>
+    <string name="NRS">全国中转服务</string>
+    <string name="NRSInfo">您可以通过NRS致电上述任何紧急或援助热线。</string>
+    <string name="NRSMore">若想了解更多有关使用NRS联系紧急服务中心的信息，</string>
+    <string name="NoAddress">未检测到地址</string>
+    <string name="OneHourAgo">後1時間経過</string>
+    <string name="OneMinAgo">後1分経過</string>
+    <string name="OneMonthAgo">後1ヶ月経過</string>
+    <string name="OneSecondAgo">後1秒経過</string>
+    <string name="OneYearAgo">後2年前経過</string>
+    <string name="OtherNational">在澳大利亚境内可拨打的其它电话号码</string>
+    <string name="OutsideAus">您的环球定位系统座标位于澳大利亚境外。呼叫112？</string>
+    <string name="PoliceNonUrgent">寻求非紧急救助的警方援助热线</string>
+    <string name="ReadAccept">我已阅读并接受使用条款。</string>
+    <string name="Ready">Emergency+の使用準備が完了しました</string>
+    <string name="RelayOfficerInfo">您将被连接到一个转接人员，该转接人员会保持连线并将您转接到所呼叫的服务部门。</string>
+    <string name="SecondsAgo">%d 秒钟前</string>
+    <string name="SeriousOrCrime">您是否刚刚见证了一启严重的事故或犯罪行为？</string>
+    <string name="SorryCrash">对不起该应用程序刚刚崩溃</string>
+    <string name="Speech">您是否有说话障碍？</string>
+    <string name="StateEmergencyHelp">提供洪水、风暴、飓风紧急救助的州紧急服务中心</string>
+    <string name="TapNRSIcon">点击NRS图标来访问网站</string>
+    <string name="TellOperatorLocation">告知接线员您的位置</string>
+    <string name="TurnOffAirplane">关闭飞行模式，以便您用手机拨打电话</string>
+    <string name="VictimPAL">如果您是犯罪的受害者，而并非是生命受到威胁或者处于时间紧迫的危急情况下，您应该致电131444报警求助。</string>
+    <string name="ViewDisclaimer">查看免责声明</string>
+    <string name="Vision">三个零宣传工作组希望感谢Vision Australia 为改进这个应用程序的可及范围所提供的宝贵援助</string>
+    <string name="YearsAgo">%d 年前</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>需要使用一或多项 Google Play 服务，但这些服务目前不可用。请与开发者联系以寻求帮助。"</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"获取 Google Play 服务"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐号，请选择其他帐号。"</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"无效帐号"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入 Google Play 服务。"</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"请完成 <ns1:g id="APP_NAME">%1$s</ns1:g>要求执行的操作。"</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"要使用 Google Play 服务，您必须执行一项操作"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"系统不支持通过受限个人资料访问帐号。"</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"受限个人资料"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"登录该帐号时出错。请选择其他帐号。"</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"登录失败"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务。如果问题一直存在，请与开发者联系以寻求帮助。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>必须搭配使用 Google Play 服务才能运行，但您的设备不支持该服务。请与设备制造商联系以寻求帮助。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="iosAgreement">LICENSED APPLICATION END USER LICENSE AGREEMENT"</string>
+    <string name="iosCalculating">计算中...</string>
+    <string name="iosCalculatingAddress">正在计算地址…</string>
+    <string name="iosCall112">呼叫112</string>
+    <string name="iosCallPolice">呼叫警方援助热线</string>
+    <string name="iosCallSESspaced">呼叫州紧急服务中心</string>
+    <string name="iosCannotObtain">无法获取地址</string>
+    <string name="iosConfirmCall">确认“呼叫”键</string>
+    <string name="iosCritical">危急情况</string>
+    <string name="iosCustom">自订号码</string>
+    <string name="iosDisableAirplane">您如果需要发出呼叫，必须先禁用飞行模式</string>
+    <string name="iosDoubleTapHome">按两下主屏幕</string>
+    <string name="iosDoubleTapHomeButton">双击主页按钮</string>
+    <string name="iosEMERGENCY">EMERGENCY</string>
+    <string name="iosFlood">洪水</string>
+    <string name="iosGPSCOORDS">环球定位系统座标  %1$s\n纬度: %1$s 经度: %1$s\n%1$s\n%1$s</string>
+    <string name="iosInEmergency">%1$s 位于？？ %2$s 或者 %3$s 紧急情况</string>
+    <string name="iosInEmergencyHelp">%1$s 需要 %1$s 或者 %1$s 紧急救助</string>
+    <string name="iosInfo">信息</string>
+    <string name="iosLAT2">纬度: </string>
+    <string name="iosLegal">合法，在Safari流览器中打开</string>
+    <string name="iosLifeThreatening">危及生命</string>
+    <string name="iosLoading">载入中...</string>
+    <string name="iosLocateFree">找到我非锁定地图位置</string>
+    <string name="iosLocateLock">找到我锁定地图位置</string>
+    <string name="iosMapReturn">当拨打电话时，我如何返回到地图画面？</string>
+    <string name="iosNRSLinkHeading">链接到全国中转服务网站</string>
+    <string name="iosNoLat">没有纬度</string>
+    <string name="iosNoLong">没有经度</string>
+    <string name="iosNonUrgent">非紧急</string>
+    <string name="iosOK">确认</string>
+    <string name="iosPOLICE">POLICE</string>
+    <string name="iosPoliceAssist">%1$s 需要 %1$s 警方援助</string>
+    <string name="iosPressButton">请按此键</string>
+    <string name="iosPressEmergencyIcon">P按下“紧急情况+图示”</string>
+    <string name="iosPressFor">按键呼叫您的 %s</string>
+    <string name="iosPressForYour">按键呼叫您的自订号码</string>
+    <string name="iosPressSpeaker">按下扬声器按钮</string>
+    <string name="iosSAVE000">SAVE 000 FOR EMERGENCIES</string>
+    <string name="iosSESCAPS">STATE EMERGENCY SERVICE</string>
+    <string name="iosSection1">第一部分</string>
+    <string name="iosSection2">第二部分</string>
+    <string name="iosSection3">第三部分</string>
+    <string name="iosStorm">风暴</string>
+    <string name="iosTapCall">点击“呼叫”键</string>
+    <string name="iosTapEmergency">点击紧急情况+图示</string>
+    <string name="iosTapSpeaker">点击“扬声器”键</string>
+    <string name="iosTellOperator">告知接线员您的位置</string>
+    <string name="iosViewDemo">查看演示</string>
+    <string name="iosViewDemonstration">查看演示</string>
+    <string name="noGPSDialogMessage">开启位置服务，让冲锋+来确定您的位置</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"清除搜索内容"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"搜索"</string>
+    <string name="starting_app">开始 Emergency +</string>
+</resources>

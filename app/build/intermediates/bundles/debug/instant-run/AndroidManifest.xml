@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.threesixtyentertainment.nesn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="com.threesixtyentertainment.nesn.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+
+    <!-- Testing -->
+    <!-- <uses-permission android:name="android.permission.CALL_PRIVILEGED"/> -->
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+ <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        name="com.threesixtyentertainment.nesn.MyApp"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:debuggable="false"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Sherlock" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyAoNKKoL7EcbX7RS0IV9seFE4AHJclofcE" />
+        <meta-data
+            android:name="com.google.android.gms.analytics.globalConfigResource"
+            android:resource="@xml/app_tracker" />
+
+        <!-- Dev-360 android:value="AIzaSyBSoQpupiJRRlBYnl8UuWUZnnRW7SeP3jQ" /> -->
+        <!-- Dev-tom android:value="AIzaSyByB0fLuQMAn2-NWUFhg7RlG504kvfOiuw" /> -->
+
+
+        <!-- recent	android:value="AIzaSyCDSfCnPp5NAyCKE85eaV88GunXBR07S24"/> -->
+        <!-- OLD	android:value="AIzaSyBc7eFmAIgqPEAlyyEEbCrWHwXv4A2yQ58"/> -->
+        <!-- RELEASE android:value="AIzaSyAoNKKoL7EcbX7RS0IV9seFE4AHJclofcE"/ -->
+
+        <activity
+            android:name="com.threesixtyentertainment.nesn.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.threesixtyentertainment.nesn.MainActivity"
+            android:label="@string/Ready"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- <activity -->
+        <!-- android:name="com.threesixtyentertainment.nesn.MainActivity" -->
+        <!-- android:label="@string/app_name" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <activity
+            android:name="com.threesixtyentertainment.nesn.DisclaimerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+
+        <service android:name="com.threesixtyentertainment.nesn.PhoneService" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.threesixtyentertainment.nesn.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

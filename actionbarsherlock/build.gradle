@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+
+dependencies {
+  compile 'com.android.support:support-v4:24.0.0'
+//  provided files('libs/android-support-v4.jar')
+}
+
+android {
+  compileSdkVersion 24
+  buildToolsVersion '24.0.0'
+
+  sourceSets {
+    main {
+      manifest.srcFile 'AndroidManifest.xml'
+      java.srcDirs = ['src']
+      res.srcDirs = ['res']
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId">UA-25331274-5</string>
+    <string name="ga_logLevel">warning</string>
+
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <bool name="ga_dryRun">false</bool>
+
+    <integer name="ga_dispatchPeriod">15</integer>
+</resources>

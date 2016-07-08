@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_layout_root"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    >
+    <RelativeLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_weight="6">
+
+        <!-- No GPS -->
+        <LinearLayout
+            android:id="@+id/llNoGPS"
+            android:layout_width="fill_parent"
+            android:layout_height="230dp"
+            android:background="@drawable/map_region"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvCallingInfo1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:gravity="center_horizontal"
+                android:text="Calling"
+                android:textColor="@color/dark_red"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/NOGPS"
+                android:textColor="@color/dark_red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <!-- Location Details -->
+        <RelativeLayout
+            android:id="@+id/rlThumMapArea"
+            android:layout_width="fill_parent"
+            android:layout_height="230dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:background="@drawable/map_region"
+            android:visibility="gone"
+            >
+
+            <TextView
+                android:id="@+id/tvCallingInfo2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:gravity="center_horizontal"
+                android:text="Calling"
+                android:textColor="@color/dark_red"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/relayCoordsTextView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_below="@id/tvCallingInfo2"
+                android:gravity="center_horizontal"
+                android:text="@string/TellOperatorLocation"
+                android:textColor="@color/dark_red"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <View
+                android:id="@+id/seperatorView"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/relayCoordsTextView"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/dark_red" />
+
+            <LinearLayout
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_below="@id/relayCoordsTextView">
+
+                <RelativeLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="0dp"
+                    android:layout_weight="5"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/gpsCoordinates"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/GPS"
+                        android:textColor="@color/light_blue"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/latTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/gpsCoordinates"
+                        android:layout_below="@+id/gpsCoordinates"
+                        android:text="@string/Lat"
+                        android:textColor="@color/dark_red"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/longTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/latTextView"
+                        android:layout_below="@+id/latTextView"
+                        android:text="@string/LONG"
+                        android:textColor="@color/dark_red"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/latValueTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/longTextView"
+                        android:layout_alignParentRight="true"
+                        android:textColor="@color/dark_red"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/longValueTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBaseline="@+id/longTextView"
+                        android:layout_alignBottom="@+id/longTextView"
+                        android:layout_alignParentRight="true"
+                        android:text=""
+                        android:textColor="@color/dark_red"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/seperatorView"
+                        android:layout_width="fill_parent"
+                        android:layout_height="1dp"
+                        android:layout_alignLeft="@id/gpsCoordinates"
+                        android:layout_below="@id/longTextView"
+                        android:layout_marginBottom="3dp"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/dark_red" />
+
+                    <TextView
+                        android:id="@+id/addressUpdatedTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="2dp"
+                        android:layout_below="@id/seperatorView"
+                        android:layout_marginBottom="4dp"
+                        android:text="@string/AddressUpdated"
+                        android:textColor="@color/dark_red"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/addressTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/longTextView"
+                        android:layout_alignRight="@+id/longValueTextView"
+                        android:layout_below="@id/addressUpdatedTextView"
+                        android:text="@string/NoAddress"
+                        android:textColor="@color/dark_red"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/accuracyTextView"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/addressTextView"
+                        android:text="@string/Accurate"
+                        android:textColor="@color/dark_red"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

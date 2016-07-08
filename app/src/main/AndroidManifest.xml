@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.threesixtyentertainment.nesn"
+
+    android:versionCode="11100"
+    android:versionName="1.11" >
+
+    
+    <uses-permission android:name="com.threesixtyentertainment.nesn.permission.MAPS_RECEIVE" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+
+    <!-- Testing -->
+    <!--<uses-permission android:name="android.permission.CALL_PRIVILEGED"/>-->
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true"/>
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="24" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:name="com.threesixtyentertainment.nesn.MyApp"
+        android:debuggable="false"
+        android:theme="@style/Theme.Sherlock" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_api_key" />
+
+        <!--<meta-data-->
+    		<!--android:name="com.google.android.maps.v2.API_KEY"-->
+            <!--android:value="AIzaSyAoNKKoL7EcbX7RS0IV9seFE4AHJclofcE" />-->
+
+        <meta-data android:name="com.google.android.gms.analytics.globalConfigResource"
+            android:resource="@xml/app_tracker" />
+
+        <!-- Dev-360 android:value="AIzaSyBSoQpupiJRRlBYnl8UuWUZnnRW7SeP3jQ" /> -->
+        <!-- Dev-tom android:value="AIzaSyByB0fLuQMAn2-NWUFhg7RlG504kvfOiuw" /> -->
+
+        <!-- recent	android:value="AIzaSyCDSfCnPp5NAyCKE85eaV88GunXBR07S24"/> -->
+    	<!-- OLD	android:value="AIzaSyBc7eFmAIgqPEAlyyEEbCrWHwXv4A2yQ58"/> -->
+        <!-- RELEASE android:value="AIzaSyAoNKKoL7EcbX7RS0IV9seFE4AHJclofcE"/-->
+
+
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.threesixtyentertainment.nesn.MainActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/Ready">
+        </activity>
+
+        <!--<activity-->
+            <!--android:name="com.threesixtyentertainment.nesn.MainActivity"-->
+            <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+        <activity
+            android:name=".DisclaimerActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait">
+        </activity>
+
+        <service android:name=".PhoneService" />
+    </application>
+
+
+</manifest>

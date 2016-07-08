@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_holo_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_holo_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_holo_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_holo_light.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\release\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    }
+]

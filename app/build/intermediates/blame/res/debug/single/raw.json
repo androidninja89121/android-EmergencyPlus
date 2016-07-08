@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.2\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.2\\res\\raw\\gtm_analytics"
+    }
+]

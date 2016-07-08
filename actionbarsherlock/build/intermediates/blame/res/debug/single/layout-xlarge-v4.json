@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\layout-xlarge\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\layout-xlarge\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar_overlay.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\actionbarsherlock\\res\\layout-xlarge\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar_overlay.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\actionbarsherlock\\res\\layout-xlarge\\abs__screen_action_bar_overlay.xml"
+    }
+]

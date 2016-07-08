@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <attr format="reference|color" name="background"/>
+    <attr format="reference|color" name="backgroundSplit"/>
+    <attr format="reference" name="divider"/>
+    <attr format="dimension" name="height"/>
+    <attr format="reference" name="subtitleTextStyle"/>
+    <attr format="reference" name="titleTextStyle"/>
+    <bool name="abs__action_bar_embed_tabs">false</bool>
+    <bool name="abs__action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abs__config_actionMenuItemAllCaps">true</bool>
+    <bool name="abs__config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abs__config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abs__split_action_bar_is_narrow">true</bool>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <color name="black">#FF000000</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="dark_red">#FF9A1519</color>
+    <color name="light_blue">#FFB1C8D4</color>
+    <color name="light_red">#FF500000</color>
+    <color name="navy">#345186</color>
+    <color name="place_autocomplete_prediction_primary_text">#212121</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
+    <color name="place_autocomplete_prediction_secondary_text">#757575</color>
+    <color name="place_autocomplete_search_hint">#BDBDBD</color>
+    <color name="place_autocomplete_search_text">#212121</color>
+    <color name="place_autocomplete_separator">#1F000000</color>
+    <color name="silver">#FFC0C0C0</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#30000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/><attr format="boolean" name="ambientEnabled"/></declare-styleable>
+    <declare-styleable name="SherlockActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr format="string" name="title"/><attr format="string" name="subtitle"/><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr name="divider"/><attr name="background"/><attr format="reference|color" name="backgroundStacked"/><attr name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
+    <declare-styleable name="SherlockActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="SherlockActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
+    <declare-styleable name="SherlockActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="SherlockMenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="SherlockMenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="android:showAsAction"/><attr name="android:actionLayout"/><attr name="android:actionViewClass"/><attr name="android:actionProviderClass"/></declare-styleable>
+    <declare-styleable name="SherlockMenuView"><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="horizontalDivider"/><attr format="reference" name="verticalDivider"/><attr format="color|reference" name="headerBackground"/><attr format="color|reference" name="itemBackground"/><attr format="reference" name="windowAnimationStyle"/><attr format="float" name="itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="SherlockSearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable>
+    <declare-styleable name="SherlockSpinner"><attr name="android:prompt"/><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr name="android:popupPromptView"/><attr name="android:gravity"/></declare-styleable>
+    <declare-styleable name="SherlockTheme"><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="windowContentOverlay"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="textAppearanceSmall"/><attr format="color" name="textColorPrimary"/><attr format="color" name="textColorPrimaryDisableOnly"/><attr format="color" name="textColorPrimaryInverse"/><attr format="reference" name="spinnerItemStyle"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="searchAutoCompleteTextView"/><attr format="reference" name="searchDropdownBackground"/><attr format="reference" name="searchViewCloseIcon"/><attr format="reference" name="searchViewGoIcon"/><attr format="reference" name="searchViewSearchIcon"/><attr format="reference" name="searchViewVoiceIcon"/><attr format="reference" name="searchViewEditQuery"/><attr format="reference" name="searchViewEditQueryBackground"/><attr format="reference" name="searchViewTextField"/><attr format="reference" name="searchViewTextFieldRight"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="dimension" name="searchResultListItemHeight"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="dimension" name="windowMinWidthMajor"/><attr format="dimension" name="windowMinWidthMinor"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="actionDropDownStyle"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="actionSpinnerItemStyle"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="activatedBackgroundIndicator"/><attr format="reference" name="dropDownHintAppearance"/></declare-styleable>
+    <declare-styleable name="SherlockView"><attr name="android:focusable"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <dimen name="abs__action_bar_default_height">48dip</dimen>
+    <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abs__action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abs__action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abs__action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abs__action_bar_title_text_size">18dp</dimen>
+    <dimen name="abs__action_button_min_width">56dip</dimen>
+    <dimen name="abs__config_prefDialogWidth">320dp</dimen>
+    <dimen name="abs__dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abs__search_view_preferred_width">320dip</dimen>
+    <dimen name="abs__search_view_text_min_width">160dip</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="place_autocomplete_button_padding">16dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_height">40dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_start">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_height">72dp</dimen>
+    <dimen name="place_autocomplete_prediction_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_prediction_primary_text">16sp</dimen>
+    <dimen name="place_autocomplete_prediction_secondary_text">14sp</dimen>
+    <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
+    <dimen name="place_autocomplete_progress_size">24dp</dimen>
+    <dimen name="place_autocomplete_separator_start">72dp</dimen>
+    <item name="abs__action_menu_divider" type="id"/>
+    <item name="abs__action_menu_presenter" type="id"/>
+    <item name="abs__home" type="id"/>
+    <item name="abs__progress_circular" type="id"/>
+    <item name="abs__progress_horizontal" type="id"/>
+    <item name="abs__up" type="id"/>
+    <integer name="abs__max_action_buttons">2</integer>
+    <integer name="google_play_services_version">9080000</integer>
+    <string name="Accurate">ACCURATE TO %d METRES</string>
+    <string name="AddressUpdated">(Address updated %s)</string>
+    <string name="Agree">Agree</string>
+    <string name="Anonymous">It can be anonymous.</string>
+    <string name="BestAssist">Who is best to assist me?</string>
+    <string name="Call">Call</string>
+    <string name="Call000">CALL 000</string>
+    <string name="CallCrimeStoppers1800333000">CALL CRIMESTOPPERS (1800 333 000)</string>
+    <string name="CallCrimestoppers">Call Crime Stoppers</string>
+    <string name="CallHealthDirect">Call Health Direct</string>
+    <string name="CallHealthDirect1800022222">CALL HEALTHDIRECT 1800 022 222</string>
+    <string name="CallPAL131444">CALL POLICE ASSISTANCE LINE (131 444)</string>
+    <string name="CallPal">Call police assistance line</string>
+    <string name="CallSES">Call State Emergency Service</string>
+    <string name="CallSES132500">CALL STATE EMERGENCY SERVICE (132 500)</string>
+    <string name="CallString">Call %s</string>
+    <string name="CallTZ000">CALL TRIPLE ZERO (000)</string>
+    <string name="Cancel">Cancel</string>
+    <string name="CrimeStoppersInfo">Crime Stoppers is a community based initiative that provides members of the public the ability to provide crime information.</string>
+    <string name="CrimeStoppersVisit">Visit www.crimestoppers.com.au</string>
+    <string name="DISCLAIMER_1">The mobile device application including its functions and tools that is available for free download from the Google Play under the name \"Emergency+\" that is subject to this license is referred to in this license as the \"Licensed Application\". Fire and Rescue New South Wales for and on behalf of the Crown in right of the State of New South Wales (“FRNSW”) has been a party to the development of the Licensed Application as part of the \"Triple Zero Awareness Work Group\". The Licensed Application includes Content (as defined in paragraph (f) below) owned by Crime Stoppers Australia Limited, the NSW State Emergency Service, NSW Police Force and Emergency Management Australia. The Licensed Application is licensed, not sold, to You for use only under the terms of this license.  FRNSW and You acknowledge that this license is concluded between FRNSW and You only, and not with any member of the \"Triple Zero Awareness Work Group\", Crime Stoppers Australia Limited or Google. Subject to the terms and conditions of this license, FRNSW is solely responsible for the Licensed Application and the content thereof. FRNSW reserves all rights not expressly granted to You.</string>
+    <string name="DISCLAIMER_10">g. NO WARRANTY: YOU EXPRESSLY ACKNOWLEDGE AND AGREE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. SUBJECT TO ANY CONDITION, WARRANTY, GUARANTEE OR RIGHT IMPLIED OR IMPOSED BY THE COMPETITION AND CONSUMER ACT 2010 (CTH) (\"CCA\") OR ANY OTHER LAW WHICH CANNOT BE EXCLUDED BY AGREEMENT, THE LICENSED APPLICATION AND THE SERVICE ARE PROVIDED \"AS IS\" AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND FRNSW HEREBY DISCLAIMS ALL CONDITIONS, WARRANTIES, GUARANTEES AND RIGHTS WITH RESPECT TO THE LICENSED APPLICATION AND ANY SERVICE, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY CONDITIONS WARRANTIES AND/OR GUARANTEES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. FRNSW DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE LICENSED APPLICATION, THAT THE FUNCTIONS CONTAINED IN, OR SERVICE PERFORMED OR PROVIDED BY, THE LICENSED APPLICATION WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE LICENSED APPLICATION OR SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE LICENSED APPLICATION OR SERVICE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY FRNSW OR ITS AUTHORISED REPRESENTATIVE SHALL CREATE A WARRANTY. SHOULD THE LICENSED APPLICATION OR SERVICE PROVE DEFECTIVE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</string>
+    <string name="DISCLAIMER_11">In the event of any failure of the Licensed Application to conform to any applicable warranty, You may notify Google, and Google will refund the purchase price for the Licensed Application to You. To the maximum extent permitted by applicable law, Google will have no other warranty obligation whatsoever with respect to the Licensed Application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be FRNSW\'s sole responsibility.</string>
+    <string name="DISCLAIMER_12">h. Claims: FRNSW and You acknowledge that: (i) FRNSW, not Google, are responsible for addressing any claims of You or any third party relating to the Licensed Application or Your possession and/or use of the Licensed Application, including, but not limited to: (A) product liability claims; (B) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and (C) any claims arising under consumer protection or similar legislation; and (ii) in the event of any third party claim that the Licensed Application or Your possession and use of that Licensed Application infringes that third party’s intellectual property rights, FRNSW, not Google, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.</string>
+    <string name="DISCLAIMER_13">i. Limitation of Liability: Subject to the qualifications set out in section 64A of Schedule 2 of the CCA or any other law, FRNSW\'s liability for breach of any implied or imposed condition, warranty, guarantee or right in connection with the supply of the Service is limited to any one or more of the following (at the election of FRNSW): (i) supplying the Service again. SUBJECT TO THE FOREGOING, TO THE MAXIMUM EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT SHALL FRNSW BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT OR OTHERWISE) AND EVEN IF FRNSW HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</string>
+    <string name="DISCLAIMER_14">j. Disclaimer and indemnity: An external third party provider is responsible for providing GPS information used in connection with the Service. The availability and accuracy of such information is beyond FRNSW\'s control. Accordingly, location data provided in connection with any Service is for basic location identification purposes and subject to the limitations set out in paragraph (a) above. Neither FRNSW, nor any of its content providers, guarantees the availability, accuracy, completeness, reliability, or timeliness of location data displayed in connection with any Service.</string>
+    <string name="DISCLAIMER_15">To the maximum extent permitted by applicable law, FRNSW disclaims all liability for or in connection with: (i) any misuse or misunderstanding of any Content contained in the Licensed Application; (ii) any loss, damage or injury, be it health, financial or otherwise, suffered by any individual, group or organisation acting upon or relying on information contained within the Licensed Application; (iii) any unavailability of the Licensed Application or the Service for any reason; (iv) the matters set out in paragraph (a) of this license; and (v) the actions or omissions of any emergency services operator in relation to calls made using the Service.</string>
+    <string name="DISCLAIMER_16">You indemnify FRNSW against all liability, loss, damage or injury (including consequential loss and damage and any legal costs) suffered by any person, organisation or entity in connection with the use of Content or the Licensed Application . You accept and acknowledge that You remain liable for all and any act or omission that any person, organisation or entity undertakes as a result of Content sourced via the Licensed Application.</string>
+    <string name="DISCLAIMER_17">k. Representations and warranties: You represent and warrant that: (i) You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a \"terrorist supporting\" country; and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties.</string>
+    <string name="DISCLAIMER_18">l. Contacting FRNSW:  You may direct Your questions, complaints or claims in respect of the Licensed Application to FRNSW at the following contact details: Commissioner Fire &amp; Rescue NSW, Level 10, 227 Elizabeth Street, Sydney, NSW 2000, +61 2 9265 2999 and TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_19">m. Third party beneficiary: FRNSW and You acknowledge and agree that Google, and Google’s subsidiaries, are third party beneficiaries of this license, and that, upon Your acceptance of the terms and conditions of this license, Google will have the right (and will be deemed to have accepted the right) to enforce this license against You as a third party beneficiary thereof.</string>
+    <string name="DISCLAIMER_2">a. Description of the Licensed Application: The service provided by the Licensed Application allows You to call an emergency service appropriate to the circumstances of Your event from Your mobile device and identify your location to the emergency service operator using GPS coordinates (the \"Service\"). The Service is subject to the following limitations: (i) continued use of GPS may dramatically decrease battery life; (ii) there is a risk that the operator receiving an emergency call may transcribe the location coordinates incorrectly in which case the relevant emergency service will be sent to the wrong location; (iii) the availability and accuracy of GPS information is subject to limitations arising due to availability of signals, the relevant mobile device, location and geography (GPS signals may be blocked by dense bush, or tall buildings, and do not penetrate indoor spaces well); and (iv) the Licensed Application may only be used in Australia and the Service is only available in Australia. Accordingly, You accept and acknowledge that use of the Licensed Application may not be as accurate as calling emergency services from a land line and is subject to the foregoing limitations.</string>
+    <string name="DISCLAIMER_20">n. Governing law: The laws of New South Wales, Australia, govern this license and your use of the Licensed Application and You submit to the non-exclusive jurisdiction of the Courts of New South Wales, Australia. Your use of the Licensed Application may also be subject to other local, state, national, or international laws.</string>
+    <string name="DISCLAIMER_3">b. Scope of License: This license granted to You for the Licensed Application by FRNSW is limited to a non-transferable license to use the Licensed Application on any iPhone or iPod touch that You own or control and as permitted by the Usage Rules set forth in Section 9.b. of the Google Play Terms and Conditions (the “Usage Rules”). This license does not allow You to use the Licensed Application on any iPod touch or iPhone that You do not own or control, and You may not distribute or make the Licensed Application available over a network where it could be used by multiple devices at the same time. You may not rent, lease, lend, sell, redistribute or sublicense the Licensed Application. You may not copy (except as expressly permitted by this license and the Usage Rules), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Licensed Application, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the Licensed Application). Any attempt to do so is a violation of the rights of FRNSW and its licensors. If You breach this restriction, You may be subject to prosecution and damages. The terms of the license will govern any upgrades provided by FRNSW that replace and/or supplement the original Licensed Application, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern.</string>
+    <string name="DISCLAIMER_4">c. Consent to Use of Data: You agree that FRNSW may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Licensed Application. FRNSW may use this information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You. To the extent that You furnish any personal information while using the Licensed Application, such personal information will be dealt with by FRNSW in accordance with FRNSW\'s privacy policy as amended from time to time (see &lt;a href="http://www.fire.nsw.gov.au/page.php?id=700">www.fire.nsw.gov.au&lt;/a>).</string>
+    <string name="DISCLAIMER_5">d. Termination: The license is effective until terminated by You or FRNSW. Your rights under this license will terminate automatically without notice from FRNSW if You fail to comply with any term(s) of this license. Upon termination of the license, You shall cease all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.</string>
+    <string name="DISCLAIMER_6">e. Maintenance and support: FRNSW and You acknowledge that Google has no obligation whatsoever to furnish any maintenance and support services with respect to the Licensed Application.  Maintenance services will be limited to such upgrades as may be made available by FRNSW at the Google Play from time to time.  FRNSW may also make available email support in response to reasonable requests for support in relation to the Licensed Application made to the following email address: TripleZero@fire.nsw.gov.au.</string>
+    <string name="DISCLAIMER_7">f. Content: The Service may display, include or make available content, data, information, applications or materials from third parties (“Content”) or provide links to certain third party web sites. By using the Service, You acknowledge and agree that FRNSW is not responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Content or web sites. FRNSW does not warrant or endorse and does not assume and will not have any liability or responsibility to You or any other person for any third-party services, Content or web sites, or for any other materials, products, or services of third parties. Content and links to other web sites are provided solely as a convenience to You.</string>
+    <string name="DISCLAIMER_8">You agree that the Service contains proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that You will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Service. No portion of the Service may be reproduced in any form or by any means. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Service, in any manner, and You shall not exploit the Service in any unauthorised way whatsoever, including but not limited to, by trespass or burdening network capacity.</string>
+    <string name="DISCLAIMER_9">FRNSW and its licensors, reserve the right to change, suspend, remove, or disable access to any element of the Service at any time without notice. In no event will FRNSW be liable for the removal of or disabling of access to any such element of the Service. FRNSW may also impose limits on the use of or access to certain elements of the Service, in any case and without notice or liability.</string>
+    <string name="DaysAgo">%d days ago</string>
+    <string name="DeafHearing">Are you deaf or hard-of-hearing?</string>
+    <string name="Done">Done</string>
+    <string name="EmergencyPlus">Emergency+</string>
+    <string name="FocusedRelevant">Stay focused, stay relevant, stay on the line</string>
+    <string name="ForFloodStormsCyclones">For emergency help in floods, storms and cyclones</string>
+    <string name="GPS">GPS COORDINATES</string>
+    <string name="HealthConcerns">For advice about health concerns</string>
+    <string name="HealthDirectAdvice">You\'ll get fast, expert advice about any health issue, helping you make an informed decision about how to manage it.</string>
+    <string name="HealthDirectInfo">If you have a health concern and you\'re not sure what to do, simply call 1800 022 222 and speak with a registered nurse.</string>
+    <string name="Home">Home</string>
+    <string name="HoursAgo">%d hrs ago</string>
+    <string name="IAgree">I Agree</string>
+    <string name="InfoPolice">For providing information to police</string>
+    <string name="InjuredMedical">Is someone seriously injured or in need of urgent medical help?</string>
+    <string name="LONG">LONG:</string>
+    <string name="Lat">LAT:</string>
+    <string name="LifePropertyThreatened">Is your life or property being threatened?</string>
+    <string name="LifeThreatCritical">For a life threatening or critical emergency</string>
+    <string name="LocateMe">Locate me</string>
+    <string name="LocationDisabled">Location Services Disabled\n%s needs access to your location to display your location and address. Please turn on Location Services in your device settings</string>
+    <string name="Map">Map</string>
+    <string name="MinutesAgo">%d mins ago</string>
+    <string name="MonthsAgo">%d months ago</string>
+    <string name="NOGPS">NO GPS AVAILABLE</string>
+    <string name="NRS">NATIONAL RELAY SERVICE</string>
+    <string name="NRSInfo">You can call any of these emergency or assistance lines through the NRS.</string>
+    <string name="NRSMore">Find out more about using the NRS to contact emergency services.</string>
+    <string name="NoAddress">No Address Detected</string>
+    <string name="OneHourAgo">1 hr ago</string>
+    <string name="OneMinAgo">1 min ago</string>
+    <string name="OneMonthAgo">1 month ago</string>
+    <string name="OneSecondAgo">1 sec ago</string>
+    <string name="OneYearAgo">1 year ago</string>
+    <string name="OtherNational">Other national numbers</string>
+    <string name="OutsideAus">Your GPS coordinates are outside Australia. Call 112?</string>
+    <string name="PoliceNonUrgent">Police Assistance Line for non-urgent help</string>
+    <string name="ReadAccept">I have read and accept the Terms of Use.</string>
+    <string name="Ready">Emergency+ is ready to be used</string>
+    <string name="RelayOfficerInfo">You will be connected to a relay officer who will stay on the line to relay your conversation with the service you are calling.</string>
+    <string name="SecondsAgo">%d secs ago</string>
+    <string name="SeriousOrCrime">Have you just witnessed a serious accident or crime?</string>
+    <string name="SorryCrash">Sorry. The app just crashed.</string>
+    <string name="Speech">Do you have a speech impairment?</string>
+    <string name="StateEmergencyHelp">State Emergency Services for flood, storm and cyclone emergency help</string>
+    <string name="TapNRSIcon">Tap the NRS icon to visit the website.</string>
+    <string name="TellOperatorLocation">Tell the operator your location</string>
+    <string name="TurnOffAirplane">Turn Off Airplane Mode to Allow Your Phone to Make a Call</string>
+    <string name="VictimPAL">If you are a victim of a crime, other than life threatening or time critical emergency situations, you should call 131 444 for police assistance.</string>
+    <string name="ViewDisclaimer">VIEW DISCLAIMER</string>
+    <string name="Vision">The Triple Zero Awareness Work Group wishes to acknowledge the valuable assistance of Vision Australia in improving the accessibility of this app</string>
+    <string name="YearsAgo">%d years ago</string>
+    <string name="abs__action_bar_home_description">Navigate home</string>
+    <string name="abs__action_bar_up_description">Navigate up</string>
+    <string name="abs__action_menu_overflow_description">More options</string>
+    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__activity_chooser_view_see_all">See all...</string>
+    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__searchview_description_clear">Clear query</string>
+    <string name="abs__searchview_description_query">Search query</string>
+    <string name="abs__searchview_description_search">Search</string>
+    <string name="abs__searchview_description_submit">Submit query</string>
+    <string name="abs__searchview_description_voice">Voice search</string>
+    <string name="abs__shareactionprovider_share_with">Share with</string>
+    <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g example="Bluetooth" id="application_name">%s</ns1:g></string>
+    <string name="app_name">@string/EmergencyPlus</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_resolution_required_text">Please complete action required by <ns1:g id="app_name">%1$s</ns1:g>.</string>
+    <string name="common_google_play_services_resolution_required_title">Google Play services requires an action</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="google_api_key">AIzaSyAwCzokQL2z0JVw9HP_190Jy8q-aPhd8ww</string>
+    <string name="iosAgreement">LICENSED APPLICATION END USER LICENSE AGREEMENT</string>
+    <string name="iosCalculating">calculating...</string>
+    <string name="iosCalculatingAddress">Calculating address...</string>
+    <string name="iosCall112">Call 112</string>
+    <string name="iosCallPolice">Call Police Assistance Line</string>
+    <string name="iosCallSESspaced">Call S E S</string>
+    <string name="iosCannotObtain">Cannot obtain address.</string>
+    <string name="iosConfirmCall">Confirm Call</string>
+    <string name="iosCritical">CRITICAL</string>
+    <string name="iosCustom">CUSTOM NUMBER</string>
+    <string name="iosDisableAirplane">You must disable airplane mode to place a call</string>
+    <string name="iosDoubleTapHome">Double Tap Home</string>
+    <string name="iosDoubleTapHomeButton">Double Tap the Home button</string>
+    <string name="iosEMERGENCY">EMERGENCY</string>
+    <string name="iosFlood">FLOOD</string>
+    <string name="iosGPSCOORDS">GPS COORDINATES %1$s\nLAT: %2$s LONG: %3$s\n%4$s\n%5$s</string>
+    <string name="iosInEmergency">%1$s IN A %2$s OR %3$s EMERGENCY</string>
+    <string name="iosInEmergencyHelp">%1$s FOR %2$s OR %3$s EMERGENCY HELP</string>
+    <string name="iosInfo">Info</string>
+    <string name="iosLAT2">LAT: </string>
+    <string name="iosLegal">Legal, opens in Safari</string>
+    <string name="iosLifeThreatening">LIFE THREATENING</string>
+    <string name="iosLoading">Loading...</string>
+    <string name="iosLocateFree">Locate me free</string>
+    <string name="iosLocateLock">Locate me lock</string>
+    <string name="iosNRSLinkHeading">Link to Nation Relay Service website</string>
+    <string name="iosNoLat">No Lat</string>
+    <string name="iosNoLong">No Long</string>
+    <string name="iosNonUrgent">NON-URGENT</string>
+    <string name="iosOK">OK</string>
+    <string name="iosPOLICE">POLICE</string>
+    <string name="iosPoliceAssist">%1$s FOR %2$s POLICE ASSISTANCE</string>
+    <string name="iosPressButton">PRESS THIS BUTTON</string>
+    <string name="iosPressEmergencyIcon">Press the “Emergency + Icon</string>
+    <string name="iosPressFor">PRESS FOR YOUR %s</string>
+    <string name="iosPressForYour">PRESS FOR YOUR CUSTOM NUMBER</string>
+    <string name="iosPressSpeaker">Press the Speaker button</string>
+    <string name="iosSAVE000">SAVE 000 FOR EMERGENCIES</string>
+    <string name="iosSESCAPS">STATE EMERGENCY SERVICE</string>
+    <string name="iosSection1">Section 1</string>
+    <string name="iosSection2">Section 2</string>
+    <string name="iosSection3">Section 3</string>
+    <string name="iosStorm">STORM</string>
+    <string name="iosTapCall">Tap Call</string>
+    <string name="iosTapEmergency">Tap Emergency + icon</string>
+    <string name="iosTapSpeaker">Tap Speaker</string>
+    <string name="iosTellOperator">Tell the operator your location</string>
+    <string name="iosViewDemo">view demo</string>
+    <string name="iosViewDemonstration">View Demonstration</string>
+    <string name="noGPSDialogMessage">Turn On Location Services to Allow Emergency+ to Determine Your Location</string>
+    <string name="number_CrimeStoppers">1800333000</string>
+    <string name="number_Emergency">000</string>
+    <string name="number_Emergency2">112</string>
+    <string name="number_HealthDirect">1800022222</string>
+    <string name="number_Police">131444</string>
+    <string name="number_SES">132500</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="relay_service_url">http://relayservice.gov.au/making-a-call/emergency-calls</string>
+    <string name="starting_app">Starting Emergency +</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CallImageButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_gravity">start</item>
+    </style>
+    <style name="ImageHeader">
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:contentDescription">@string/app_name</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:src">@drawable/header_text</item>
+    </style>
+    <style name="ImageHeader.Bg">
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:src">@drawable/header_bgd</item>
+    </style>
+    <style name="InfoSection">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="InfoText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="InfoTitle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="LineDivider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">4dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:src">@drawable/line</item>
+    </style>
+    <style name="Sherlock.__TextAppearance.Small" parent="Widget">
+      <item name="android:textSize">14sp</item>
+      <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="Sherlock.__Theme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Sherlock.__Theme.DarkActionBar" parent="Theme.Sherlock.Light">
+    </style>
+    <style name="Sherlock.__Theme.Light" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Sherlock.__Widget.ActionBar" parent="Widget">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="homeLayout">@layout/abs__action_bar_home</item>
+    </style>
+    <style name="Sherlock.__Widget.ActionMode" parent="Widget">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+    </style>
+    <style name="Sherlock.__Widget.ActivityChooserView" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_dark</item>
+        <item name="android:divider">?attr/dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">6dip</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.DropDownItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.ListView" parent="android:Widget.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_dark</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.Spinner" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:spinnerMode">dropdown</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="Sherlock.__Widget.SearchAutoCompleteTextView" parent="Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:completionHintView">@layout/abs__simple_dropdown_hint</item>
+        <item name="android:completionThreshold">2</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="TextAppearance.Sherlock" parent="@android:style/TextAppearance"/>
+    <style name="TextAppearance.Sherlock.Light.SearchResult" parent="TextAppearance.Sherlock.SearchResult"/>
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Light.Small" parent="TextAppearance.Sherlock.Small">
+    </style>
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Large" parent="TextAppearance.Sherlock.Widget.PopupMenu.Large">
+    </style>
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Small" parent="TextAppearance.Sherlock.Widget.PopupMenu.Small">
+    </style>
+    <style name="TextAppearance.Sherlock.SearchResult">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textColorHint">?android:attr/textColorHint</item>
+    </style>
+    <style name="TextAppearance.Sherlock.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Small" parent="Sherlock.__TextAppearance.Small">
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Menu" parent="Widget">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:textAllCaps">@bool/abs__config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.DropDownHint" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.DropDownItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu" parent="Widget">
+        <item name="android:textColor">?attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Large">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Theme.Sherlock" parent="Sherlock.__Theme">
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.ActionBar</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal --><item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Button.Small</item>
+
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_dark</item>
+
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_dark</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.ActivityChooserView</item>
+
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_dark</item>
+
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+
+        <item name="textColorPrimary">@color/abs__primary_text_holo_dark</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_dark</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_light</item>
+
+        <!-- Internal --><item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.ListView.DropDown</item>
+
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.SearchResult.Subtitle</item>
+
+        <item name="popupMenuStyle">@style/Widget.Sherlock.PopupMenu</item>
+        <!-- Internal --><item name="listPopupWindowStyle">@style/Widget.Sherlock.ListPopupWindow</item>
+
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Sherlock.Light" parent="Sherlock.__Theme.Light">
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Light.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.Light.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_light</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.Light.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal --><item name="actionModePopupWindowStyle">@style/Widget.Sherlock.Light.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Light.Button.Small</item>
+
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_light</item>
+
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_light</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_light</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.Light.ActivityChooserView</item>
+
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_light</item>
+
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.Light.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+
+        <item name="textColorPrimary">@color/abs__primary_text_holo_light</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_light</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_dark</item>
+
+        <!-- Internal --><item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.Light.ListView.DropDown</item>
+
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Light.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.Light.SearchResult.Subtitle</item>
+
+        <item name="popupMenuStyle">@style/Widget.Sherlock.Light.PopupMenu</item>
+        <!-- Internal --><item name="listPopupWindowStyle">@style/Widget.Sherlock.Light.ListPopupWindow</item>
+
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search_api_holo_light</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.Light.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Sherlock.Light.DarkActionBar" parent="Sherlock.__Theme.DarkActionBar">
+        <item name="windowContentOverlay">@drawable/abs__ab_solid_shadow_holo</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.Sherlock</item>
+
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionBarDivider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abs__item_background_holo_dark</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimaryInverse</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode.Inverse</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+
+        <!-- We want the dark action bar SearchView stuff -->
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+    </style>
+    <style name="Theme.Sherlock.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Sherlock.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.Sherlock.ActionBar" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.Solid" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabBar" parent="Widget">
+        <item name="android:divider">?attr/actionBarDivider</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">12dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabText" parent="Widget">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabView" parent="Widget">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/abs__tab_indicator_ab_holo</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton" parent="Widget">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+
+        <item name="android:minWidth">@dimen/abs__action_button_min_width</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_dark</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abs__action_menu_overflow_description</item>
+    </style>
+    <style name="Widget.Sherlock.ActionMode" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.Sherlock.ActivityChooserView" parent="Sherlock.__Widget.ActivityChooserView">
+    </style>
+    <style name="Widget.Sherlock.Button.Small" parent="Widget">
+      <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+      <item name="android:textColor">@color/abs__primary_text_holo_dark</item>
+      <item name="android:minHeight">48dip</item>
+      <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Widget.Sherlock.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar" parent="Widget.Sherlock.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_light_holo</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_light_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.Solid.Inverse">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_inverse_holo</item>
+        <item name="divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar" parent="Widget.Sherlock.ActionBar.TabBar">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar.Inverse">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabText" parent="Widget.Sherlock.ActionBar.TabText">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabText.Inverse">
+        <item name="android:textColor">?attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabView" parent="Widget.Sherlock.ActionBar.TabView">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabView.Inverse">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton" parent="Widget.Sherlock.ActionButton">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionMode" parent="Widget.Sherlock.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionMode.Inverse" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActivityChooserView" parent="Widget.Sherlock.ActivityChooserView">
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.Button.Small" parent="Widget">
+      <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+      <item name="android:textColor">@color/abs__primary_text_holo_light</item>
+      <item name="android:minHeight">48dip</item>
+      <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem">
+    </style>
+    <style name="Widget.Sherlock.Light.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_light</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.PopupMenu" parent="Widget.Sherlock.Light.ListPopupWindow">
+    </style>
+    <style name="Widget.Sherlock.Light.PopupWindow.ActionMode" parent="Widget">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ProgressBar" parent="Widget.Sherlock.ProgressBar">
+    </style>
+    <style name="Widget.Sherlock.Light.ProgressBar.Horizontal" parent="Widget.Sherlock.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.Sherlock.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView">
+    </style>
+    <style name="Widget.Sherlock.PopupMenu" parent="Widget.Sherlock.ListPopupWindow">
+    </style>
+    <style name="Widget.Sherlock.PopupWindow.ActionMode" parent="Widget">
+    </style>
+    <style name="Widget.Sherlock.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/abs__progress_medium_holo</item>
+        <item name="android:animationResolution">33</item>
+    </style>
+    <style name="Widget.Sherlock.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_dark</item>
+        <!--item name="android:indeterminateDrawable">@drawable/abs__progress_indeterminate_horizontal_holo</item-->
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style>
+    <style name="Widget.Sherlock.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.TextView.SpinnerItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+</resources>

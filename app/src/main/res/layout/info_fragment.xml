@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@drawable/body_background"
+        android:requiresFadingEdge="vertical"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        >
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            >
+
+            <!-- Demo -->
+            <!--<LinearLayout style="@style/InfoSection">-->
+
+                <!--<ImageButton-->
+                    <!--android:id="@+id/ibtnViewDemo"-->
+                    <!--style="@style/CallImageButton"-->
+                    <!--android:background="@drawable/view_demo"-->
+                    <!--android:layout_height="wrap_content" />-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_marginTop="4dp"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<TextView-->
+                        <!--android:text="@string/return2map_title"-->
+                        <!--style="@style/InfoTitle"-->
+                        <!--/>-->
+
+                    <!--<TextView-->
+                        <!--style="@style/InfoText"-->
+                        <!--android:text="@string/return2map_text"-->
+                        <!--/>-->
+
+                <!--</LinearLayout>-->
+            <!--</LinearLayout>-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imageView1"-->
+                <!--style="@style/LineDivider"-->
+                <!--/>-->
+
+            <!-- Who is best to assist me? -->
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="@string/BestAssist"
+                android:textSize="25dp"
+                style="@style/InfoTitle"
+                />
+
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+
+                <!-- 000 -->
+                <LinearLayout style="@style/InfoSection">
+                    <TextView
+                        android:text="@string/CallTZ000"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnCall000"
+                            style="@style/CallImageButton"
+                            android:contentDescription="@string/Call000"
+                            android:background="@drawable/call_000"
+                            />
+
+                        <LinearLayout
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:text="@string/InjuredMedical"
+                                style="@style/InfoText"
+                                />
+                            <TextView
+                                android:text="@string/LifePropertyThreatened"
+                                style="@style/InfoText"
+                                />
+                            <TextView
+                                android:text="@string/SeriousOrCrime"
+                                style="@style/InfoText"
+                                />
+                            <TextView
+                                android:text="@string/FocusedRelevant"
+                                style="@style/InfoText"
+                                />
+
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView style="@style/LineDivider" />
+
+                <!-- SES -->
+                <LinearLayout style="@style/InfoSection">
+                    <TextView
+                        android:text="@string/CallSES132500"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnCallSES"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/call_ses"
+                            android:contentDescription="@string/CallSES"
+                            />
+
+
+
+                        <TextView
+                            android:text="@string/ForFloodStormsCyclones"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView style="@style/LineDivider" />
+
+                <!-- Police -->
+                <LinearLayout style="@style/InfoSection">
+
+                    <TextView
+                        android:text="@string/CallPAL131444"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnCallPolice"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/call_police"
+                            android:contentDescription="@string/CallPal"
+                            />
+
+                        <TextView
+                            android:text="@string/VictimPAL"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <ImageView style="@style/LineDivider" />
+
+            <!-- Other national numbers -->
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="5dp"
+                android:text="@string/OtherNational"
+                android:textSize="25dp"
+                style="@style/InfoTitle"
+                />
+
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+
+                <!-- Crime Stoppers -->
+                <LinearLayout style="@style/InfoSection">
+
+                    <TextView
+                        android:text="@string/CallCrimeStoppers1800333000"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnCallCrimeStoppers"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/call_crimestoppers"
+                            android:contentDescription="@string/CallCrimestoppers"
+                            />
+
+                        <TextView
+                            android:id="@+id/tvCrimeStoppersInfo"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- Health Direct -->
+                <LinearLayout style="@style/InfoSection" android:layout_width="match_parent">
+                    <TextView
+                        android:text="@string/CallHealthDirect1800022222"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnCallHealthDirect"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/call_healthdirect"
+                            android:contentDescription="@string/CallHealthDirect"
+                            />
+
+                        <TextView
+                            android:id="@+id/tvHealthDirectInfo"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView style="@style/LineDivider" />
+
+                <!-- National Relay Service -->
+                <LinearLayout style="@style/InfoSection">
+
+                    <TextView
+                        android:text="@string/NRS"
+                        style="@style/InfoTitle"
+                        />
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnRelayService"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/link_nrs"
+                            android:contentDescription=""
+                            />
+
+
+                        <TextView
+                            android:id="@+id/tvRelayServiceInfo"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView style="@style/LineDivider" />
+
+                <!-- Vision Australia -->
+                <LinearLayout style="@style/InfoSection" android:layout_width="match_parent">
+
+                    <LinearLayout
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/ibtnVisionAustralia"
+                            style="@style/CallImageButton"
+                            android:background="@drawable/vision_australia"
+                            android:contentDescription=""
+                            />
+
+                        <TextView
+                            android:text="@string/Vision"
+                            style="@style/InfoText"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <ImageView style="@style/LineDivider" />
+
+            <Button
+                android:id="@+id/btnViewDisclaimer"
+                android:layout_height="45dp"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="@string/ViewDisclaimer"
+                android:textColor="@color/dark_red"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:contentDescription="@string/ViewDisclaimer"
+                android:background="@drawable/button_background"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

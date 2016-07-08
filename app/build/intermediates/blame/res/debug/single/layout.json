@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disclaimer.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\disclaimer.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_fragment.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_fragment.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_fragment.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\info_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disclaimer.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\disclaimer.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\tab_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_fragment.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\debug_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\tab_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_fragment.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\debug_fragment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "D:\\Work\\Android Studio\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\exploded-aar\\AndroidEmergencyPlus\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_fragment.xml",
+        "source": "E:\\Work\\ElanceWork\\AndroidWork\\EmergencyPlusWork\\AndroidEmergencyPlus\\app\\src\\main\\res\\layout\\info_fragment.xml"
+    }
+]
